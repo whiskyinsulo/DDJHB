@@ -1,0 +1,1075 @@
+<!DOCTYPE HTML>
+<html lang="en-US" manifest="../manifest.appcache">
+    
+    <head>
+        
+        <meta charset="UTF-8">
+        <title>The Web as a Data Source | The Data Journalism Handbook</title>
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="generator" content="GitBook 0.5.2">
+        <meta name="HandheldFriendly" content="true"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <meta name="apple-mobile-web-app-status-bar-style" content="black">
+        <link rel="shortcut icon" href="../gitbook/images/favicon.ico" type="image/x-icon">
+        
+    
+    
+    
+    <link rel="next" href="../getting_data/crowdsourcing_data_at_the_guardian_datablog.html" />
+    
+    
+    <link rel="prev" href="../getting_data/getting_data_from_the_web.html" />
+    
+
+        
+    </head>
+    <body>
+        
+        
+<link rel="stylesheet" href="../gitbook/style.css">
+
+
+        
+    <div class="book"  data-level="5.5" data-basepath=".." data-revision="1406691846164">
+    <div class="book-header">
+    <!-- Actions Left -->
+    <a href="#" class="btn pull-left toggle-summary" aria-label="Toggle summary"><i class="fa fa-align-justify"></i></a>
+    
+    <a href="https://github.com/null" target="_blank" class="btn pull-left home-bookmark" aria-label="GitHub home"><i class="fa fa-bookmark-o"></i></a>
+    
+    <a href="#" class="btn pull-left toggle-search" aria-label="Toggle search"><i class="fa fa-search"></i></a>
+    <span id="font-settings-wrapper">
+        <a href="#" class="btn pull-left toggle-font-settings" aria-label="Toggle font settings"><i class="fa fa-font"></i>
+        </a>
+        <div class="dropdown-menu font-settings">
+    <div class="dropdown-caret">
+        <span class="caret-outer"></span>
+        <span class="caret-inner"></span>
+    </div>
+
+    <div class="btn-group btn-block">
+        <button id="reduce-font-size" class="btn btn-default">A</button>
+        <button id="enlarge-font-size" class="btn btn-default">A</button>
+    </div>
+
+    <ul class="list-group font-family-list">
+        <li class="list-group-item" data-font="0">Serif</li>
+        <li class="list-group-item" data-font="1">Sans</li>
+    </ul>
+
+    <div class="btn-group btn-group-xs btn-block color-theme-list">
+        <button type="button" class="btn btn-default" id="color-theme-preview-0" data-theme="0">White</button>
+        <button type="button" class="btn btn-default" id="color-theme-preview-1" data-theme="1">Sepia</button>
+        <button type="button" class="btn btn-default" id="color-theme-preview-2" data-theme="2">Night</button>
+    </div>
+</div>
+
+    </span>
+
+    <!-- Actions Right -->
+    
+    <a href="#" target="_blank" class="btn pull-right google-plus-sharing-link sharing-link" data-sharing="google-plus" aria-label="Share on Google Plus"><i class="fa fa-google-plus"></i></a>
+    
+    
+    <a href="#" target="_blank" class="btn pull-right facebook-sharing-link sharing-link" data-sharing="facebook" aria-label="Share on Facebook"><i class="fa fa-facebook"></i></a>
+    
+    
+    <a href="#" target="_blank" class="btn pull-right twitter-sharing-link sharing-link" data-sharing="twitter" aria-label="Share on Twitter"><i class="fa fa-twitter"></i></a>
+    
+
+    
+
+    <!-- Title -->
+    <h1>
+        <i class="fa fa-spinner fa-spin"></i>
+        <a href="../" >The Data Journalism Handbook</a>
+    </h1>
+</div>
+
+    
+
+<div class="book-summary">
+    <div class="book-search">
+        <input type="text" placeholder="Search" class="form-control" />
+    </div>
+    <ul class="summary">
+        
+        
+
+        
+
+        
+
+        
+
+        <li data-level="0" data-path="index.html">
+            <a href="../"><i class="fa fa-check"></i> Introduction</a>
+        </li>
+        
+    
+        <li class="chapter " data-level="1" data-path="index/README.html">
+            
+            <a href="../index/README.html">
+                <i class="fa fa-check"></i> <b>1.</b> Front Matter
+            </a>
+            
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.1" data-path="index/for_the_great_unnamed.html">
+            
+            <a href="../index/for_the_great_unnamed.html">
+                <i class="fa fa-check"></i> <b>1.1.</b> For the Great Unnamed
+            </a>
+            
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2" data-path="index/contributor_list.html">
+            
+            <a href="../index/contributor_list.html">
+                <i class="fa fa-check"></i> <b>1.2.</b> Contributor List
+            </a>
+            
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3" data-path="index/what_this_book_is_and_what_it_isnt.html">
+            
+            <a href="../index/what_this_book_is_and_what_it_isnt.html">
+                <i class="fa fa-check"></i> <b>1.3.</b> What This Book Is (And What It Isn’t)
+            </a>
+            
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4" data-path="index/the_handbook_at_a_glance.html">
+            
+            <a href="../index/the_handbook_at_a_glance.html">
+                <i class="fa fa-check"></i> <b>1.4.</b> The Handbook At A Glance
+            </a>
+            
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="2" data-path="introduction/README.html">
+            
+            <a href="../introduction/README.html">
+                <i class="fa fa-check"></i> <b>2.</b> Introduction
+            </a>
+            
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="2.1" data-path="introduction/what_is_data_journalism.html">
+            
+            <a href="../introduction/what_is_data_journalism.html">
+                <i class="fa fa-check"></i> <b>2.1.</b> What Is Data Journalism?
+            </a>
+            
+            
+        </li>
+    
+        <li class="chapter " data-level="2.2" data-path="introduction/why_journalists_should_use_data.html">
+            
+            <a href="../introduction/why_journalists_should_use_data.html">
+                <i class="fa fa-check"></i> <b>2.2.</b> Why Journalists Should Use Data
+            </a>
+            
+            
+        </li>
+    
+        <li class="chapter " data-level="2.3" data-path="introduction/why_is_data_journalism_important.html">
+            
+            <a href="../introduction/why_is_data_journalism_important.html">
+                <i class="fa fa-check"></i> <b>2.3.</b> Why Is Data Journalism Important?
+            </a>
+            
+            
+        </li>
+    
+        <li class="chapter " data-level="2.4" data-path="introduction/some_favorite_examples.html">
+            
+            <a href="../introduction/some_favorite_examples.html">
+                <i class="fa fa-check"></i> <b>2.4.</b> Some Favorite Examples
+            </a>
+            
+            
+        </li>
+    
+        <li class="chapter " data-level="2.5" data-path="introduction/data_journalism_in_perspective.html">
+            
+            <a href="../introduction/data_journalism_in_perspective.html">
+                <i class="fa fa-check"></i> <b>2.5.</b> Data Journalism in Perspective
+            </a>
+            
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="3" data-path="in_the_newsroom/README.html">
+            
+            <a href="../in_the_newsroom/README.html">
+                <i class="fa fa-check"></i> <b>3.</b> In The Newsroom
+            </a>
+            
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="3.1" data-path="in_the_newsroom/the_abcs_data_journalism_play.html">
+            
+            <a href="../in_the_newsroom/the_abcs_data_journalism_play.html">
+                <i class="fa fa-check"></i> <b>3.1.</b> The ABC’s Data Journalism Play
+            </a>
+            
+            
+        </li>
+    
+        <li class="chapter " data-level="3.2" data-path="in_the_newsroom/data_journalism_at_the_bbc.html">
+            
+            <a href="../in_the_newsroom/data_journalism_at_the_bbc.html">
+                <i class="fa fa-check"></i> <b>3.2.</b> Data Journalism at the BBC
+            </a>
+            
+            
+        </li>
+    
+        <li class="chapter " data-level="3.3" data-path="in_the_newsroom/how_the_news_apps_team_at_chicago_tribune_works.html">
+            
+            <a href="../in_the_newsroom/how_the_news_apps_team_at_chicago_tribune_works.html">
+                <i class="fa fa-check"></i> <b>3.3.</b> How the News Apps Team at Chicago Tribune Works
+            </a>
+            
+            
+        </li>
+    
+        <li class="chapter " data-level="3.4" data-path="in_the_newsroom/behind_the_scenes_at_the_guardian_datablog.html">
+            
+            <a href="../in_the_newsroom/behind_the_scenes_at_the_guardian_datablog.html">
+                <i class="fa fa-check"></i> <b>3.4.</b> Behind the Scenes at the Guardian Datablog
+            </a>
+            
+            
+        </li>
+    
+        <li class="chapter " data-level="3.5" data-path="in_the_newsroom/data_journalism_at_the_zeit_online.html">
+            
+            <a href="../in_the_newsroom/data_journalism_at_the_zeit_online.html">
+                <i class="fa fa-check"></i> <b>3.5.</b> Data Journalism at the Zeit Online
+            </a>
+            
+            
+        </li>
+    
+        <li class="chapter " data-level="3.6" data-path="in_the_newsroom/how_to_hire_a_hacker.html">
+            
+            <a href="../in_the_newsroom/how_to_hire_a_hacker.html">
+                <i class="fa fa-check"></i> <b>3.6.</b> How to Hire a Hacker
+            </a>
+            
+            
+        </li>
+    
+        <li class="chapter " data-level="3.7" data-path="in_the_newsroom/harnessing_external_expertise_through_hackthons.html">
+            
+            <a href="../in_the_newsroom/harnessing_external_expertise_through_hackthons.html">
+                <i class="fa fa-check"></i> <b>3.7.</b> Harnessing External Expertise Through Hackthons
+            </a>
+            
+            
+        </li>
+    
+        <li class="chapter " data-level="3.8" data-path="in_the_newsroom/following_the_money_cross-border_collaboration.html">
+            
+            <a href="../in_the_newsroom/following_the_money_cross-border_collaboration.html">
+                <i class="fa fa-check"></i> <b>3.8.</b> Following the Money: Cross-Border Collaboration
+            </a>
+            
+            
+        </li>
+    
+        <li class="chapter " data-level="3.9" data-path="in_the_newsroom/our_stories_come_as_code.html">
+            
+            <a href="../in_the_newsroom/our_stories_come_as_code.html">
+                <i class="fa fa-check"></i> <b>3.9.</b> Our Stories Come As Code
+            </a>
+            
+            
+        </li>
+    
+        <li class="chapter " data-level="3.10" data-path="in_the_newsroom/kaas_&amp;_mulvad_semi-finished_content_for_stakeholder_groups_-_see_more_at_httpdatajournalismhandbookorg10enin_the_newsroomhtmlsthasho3lz0jc0dpuf.html">
+            
+            <a href="../in_the_newsroom/kaas_&amp;_mulvad_semi-finished_content_for_stakeholder_groups_-_see_more_at_httpdatajournalismhandbookorg10enin_the_newsroomhtmlsthasho3lz0jc0dpuf.html">
+                <i class="fa fa-check"></i> <b>3.10.</b> Kaas &amp; Mulvad: Semi-finished Content for Stakeholder Groups
+            </a>
+            
+            
+        </li>
+    
+        <li class="chapter " data-level="3.11" data-path="in_the_newsroom/business_models_for_data_journalism.html">
+            
+            <a href="../in_the_newsroom/business_models_for_data_journalism.html">
+                <i class="fa fa-check"></i> <b>3.11.</b> Business Models for Data Journalism
+            </a>
+            
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="4" data-path="case_studies/README.html">
+            
+            <a href="../case_studies/README.html">
+                <i class="fa fa-check"></i> <b>4.</b> Case Studies
+            </a>
+            
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="4.1" data-path="case_studies/the_opportunity_gap.html">
+            
+            <a href="../case_studies/the_opportunity_gap.html">
+                <i class="fa fa-check"></i> <b>4.1.</b> The Opportunity Gap
+            </a>
+            
+            
+        </li>
+    
+        <li class="chapter " data-level="4.2" data-path="case_studies/a_9_month_investigation_into_european_structural_funds.html">
+            
+            <a href="../case_studies/a_9_month_investigation_into_european_structural_funds.html">
+                <i class="fa fa-check"></i> <b>4.2.</b> A 9 Month Investigation into European Structural Funds
+            </a>
+            
+            
+        </li>
+    
+        <li class="chapter " data-level="4.3" data-path="case_studies/the_eurozone_meltdown.html">
+            
+            <a href="../case_studies/the_eurozone_meltdown.html">
+                <i class="fa fa-check"></i> <b>4.3.</b> The Eurozone Meltdown
+            </a>
+            
+            
+        </li>
+    
+        <li class="chapter " data-level="4.4" data-path="case_studies/covering_the_public_purse_with_openspendingorg.html">
+            
+            <a href="../case_studies/covering_the_public_purse_with_openspendingorg.html">
+                <i class="fa fa-check"></i> <b>4.4.</b> Covering the Public Purse with OpenSpending.org
+            </a>
+            
+            
+        </li>
+    
+        <li class="chapter " data-level="4.5" data-path="case_studies/finnish_parliamentary_elections_and_campaign_funding.html">
+            
+            <a href="../case_studies/finnish_parliamentary_elections_and_campaign_funding.html">
+                <i class="fa fa-check"></i> <b>4.5.</b> Finnish Parliamentary Elections and Campaign Funding
+            </a>
+            
+            
+        </li>
+    
+        <li class="chapter " data-level="4.6" data-path="case_studies/electoral_hack_in_realtime.html">
+            
+            <a href="../case_studies/electoral_hack_in_realtime.html">
+                <i class="fa fa-check"></i> <b>4.6.</b> Electoral Hack in Realtime
+            </a>
+            
+            
+        </li>
+    
+        <li class="chapter " data-level="4.7" data-path="case_studies/data_in_the_news_wikileaks.html">
+            
+            <a href="../case_studies/data_in_the_news_wikileaks.html">
+                <i class="fa fa-check"></i> <b>4.7.</b> Data in the News: Wikileaks
+            </a>
+            
+            
+        </li>
+    
+        <li class="chapter " data-level="4.8" data-path="case_studies/mapa76_hackathon.html">
+            
+            <a href="../case_studies/mapa76_hackathon.html">
+                <i class="fa fa-check"></i> <b>4.8.</b> Mapa76 Hackathon
+            </a>
+            
+            
+        </li>
+    
+        <li class="chapter " data-level="4.9" data-path="case_studies/the_guardian_datablogs_coverage_of_the_uk_riots.html">
+            
+            <a href="../case_studies/the_guardian_datablogs_coverage_of_the_uk_riots.html">
+                <i class="fa fa-check"></i> <b>4.9.</b> The Guardian Datablog’s Coverage of the UK Riots
+            </a>
+            
+            
+        </li>
+    
+        <li class="chapter " data-level="4.10" data-path="case_studies/illinois_school_report_cards.html">
+            
+            <a href="../case_studies/illinois_school_report_cards.html">
+                <i class="fa fa-check"></i> <b>4.10.</b> Illinois School Report Cards
+            </a>
+            
+            
+        </li>
+    
+        <li class="chapter " data-level="4.11" data-path="case_studies/hospital_billing.html">
+            
+            <a href="../case_studies/hospital_billing.html">
+                <i class="fa fa-check"></i> <b>4.11.</b> Hospital Billing
+            </a>
+            
+            
+        </li>
+    
+        <li class="chapter " data-level="4.12" data-path="case_studies/care_home_crisis.html">
+            
+            <a href="../case_studies/care_home_crisis.html">
+                <i class="fa fa-check"></i> <b>4.12.</b> Care Home Crisis
+            </a>
+            
+            
+        </li>
+    
+        <li class="chapter " data-level="4.13" data-path="case_studies/the_tell-all_telephone.html">
+            
+            <a href="../case_studies/the_tell-all_telephone.html">
+                <i class="fa fa-check"></i> <b>4.13.</b> The Tell-All Telephone
+            </a>
+            
+            
+        </li>
+    
+        <li class="chapter " data-level="4.14" data-path="case_studies/which_car_model_mot_failure_rates.html">
+            
+            <a href="../case_studies/which_car_model_mot_failure_rates.html">
+                <i class="fa fa-check"></i> <b>4.14.</b> Which Car Model? MOT Failure Rates
+            </a>
+            
+            
+        </li>
+    
+        <li class="chapter " data-level="4.15" data-path="case_studies/bus_subsidies_in_argentina.html">
+            
+            <a href="../case_studies/bus_subsidies_in_argentina.html">
+                <i class="fa fa-check"></i> <b>4.15.</b> Bus Subsidies in Argentina
+            </a>
+            
+            
+        </li>
+    
+        <li class="chapter " data-level="4.16" data-path="case_studies/citizen_data_reporters.html">
+            
+            <a href="../case_studies/citizen_data_reporters.html">
+                <i class="fa fa-check"></i> <b>4.16.</b> Citizen Data Reporters
+            </a>
+            
+            
+        </li>
+    
+        <li class="chapter " data-level="4.17" data-path="case_studies/the_big_board_for_election_results.html">
+            
+            <a href="../case_studies/the_big_board_for_election_results.html">
+                <i class="fa fa-check"></i> <b>4.17.</b> The Big Board for Election Results
+            </a>
+            
+            
+        </li>
+    
+        <li class="chapter " data-level="4.18" data-path="case_studies/crowdsourcing_the_price_of_water.html">
+            
+            <a href="../case_studies/crowdsourcing_the_price_of_water.html">
+                <i class="fa fa-check"></i> <b>4.18.</b> Crowdsourcing the Price of Water
+            </a>
+            
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="5" data-path="getting_data/README.html">
+            
+            <a href="../getting_data/README.html">
+                <i class="fa fa-check"></i> <b>5.</b> Getting Data
+            </a>
+            
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="5.1" data-path="getting_data/a_five_minute_field_guide.html">
+            
+            <a href="../getting_data/a_five_minute_field_guide.html">
+                <i class="fa fa-check"></i> <b>5.1.</b> A Five Minute Field Guide
+            </a>
+            
+            
+        </li>
+    
+        <li class="chapter " data-level="5.2" data-path="getting_data/your_right_to_data.html">
+            
+            <a href="../getting_data/your_right_to_data.html">
+                <i class="fa fa-check"></i> <b>5.2.</b> Your Right to Data
+            </a>
+            
+            
+        </li>
+    
+        <li class="chapter " data-level="5.3" data-path="getting_data/wobbing_works_use_it.html">
+            
+            <a href="../getting_data/wobbing_works_use_it.html">
+                <i class="fa fa-check"></i> <b>5.3.</b> Wobbing Works. Use it!
+            </a>
+            
+            
+        </li>
+    
+        <li class="chapter " data-level="5.4" data-path="getting_data/getting_data_from_the_web.html">
+            
+            <a href="../getting_data/getting_data_from_the_web.html">
+                <i class="fa fa-check"></i> <b>5.4.</b> Getting Data from the Web
+            </a>
+            
+            
+        </li>
+    
+        <li class="chapter " data-level="5.5" data-path="getting_data/the_web_as_a_data_source.html">
+            
+            <a href="../getting_data/the_web_as_a_data_source.html">
+                <i class="fa fa-check"></i> <b>5.5.</b> The Web as a Data Source
+            </a>
+            
+            
+        </li>
+    
+        <li class="chapter " data-level="5.6" data-path="getting_data/crowdsourcing_data_at_the_guardian_datablog.html">
+            
+            <a href="../getting_data/crowdsourcing_data_at_the_guardian_datablog.html">
+                <i class="fa fa-check"></i> <b>5.6.</b> Crowdsourcing Data at the Guardian Datablog
+            </a>
+            
+            
+        </li>
+    
+        <li class="chapter " data-level="5.7" data-path="getting_data/how_the_datablog_used_crowdsourcing_to_cover_olympic_ticketing.html">
+            
+            <a href="../getting_data/how_the_datablog_used_crowdsourcing_to_cover_olympic_ticketing.html">
+                <i class="fa fa-check"></i> <b>5.7.</b> How the Datablog Used Crowdsourcing to Cover Olympic Ticketing
+            </a>
+            
+            
+        </li>
+    
+        <li class="chapter " data-level="5.8" data-path="getting_data/using_and_sharing_data_the_black_letter,_fine_print,_and_reality.html">
+            
+            <a href="../getting_data/using_and_sharing_data_the_black_letter,_fine_print,_and_reality.html">
+                <i class="fa fa-check"></i> <b>5.8.</b> Using and Sharing Data: the Black Letter, Fine Print, and Reality
+            </a>
+            
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="6" data-path="understanding_data/README.html">
+            
+            <a href="../understanding_data/README.html">
+                <i class="fa fa-check"></i> <b>6.</b> Understanding Data
+            </a>
+            
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="6.1" data-path="understanding_data/become_data_literate_in_3_simple_steps.html">
+            
+            <a href="../understanding_data/become_data_literate_in_3_simple_steps.html">
+                <i class="fa fa-check"></i> <b>6.1.</b> Become Data Literate in 3 Simple Steps
+            </a>
+            
+            
+        </li>
+    
+        <li class="chapter " data-level="6.2" data-path="understanding_data/tips_for_working_with_numbers_in_the_news.html">
+            
+            <a href="../understanding_data/tips_for_working_with_numbers_in_the_news.html">
+                <i class="fa fa-check"></i> <b>6.2.</b> Tips for Working with Numbers in the News
+            </a>
+            
+            
+        </li>
+    
+        <li class="chapter " data-level="6.3" data-path="understanding_data/basic_steps_in_working_with_data.html">
+            
+            <a href="../understanding_data/basic_steps_in_working_with_data.html">
+                <i class="fa fa-check"></i> <b>6.3.</b> Basic Steps in Working with Data
+            </a>
+            
+            
+        </li>
+    
+        <li class="chapter " data-level="6.4" data-path="understanding_data/the_32_loaf_of_bread.html">
+            
+            <a href="../understanding_data/the_32_loaf_of_bread.html">
+                <i class="fa fa-check"></i> <b>6.4.</b> The £32 Loaf of Bread
+            </a>
+            
+            
+        </li>
+    
+        <li class="chapter " data-level="6.5" data-path="understanding_data/start_with_the_data,_finish_with_a_story.html">
+            
+            <a href="../understanding_data/start_with_the_data,_finish_with_a_story.html">
+                <i class="fa fa-check"></i> <b>6.5.</b> Start With the Data, Finish With a Story
+            </a>
+            
+            
+        </li>
+    
+        <li class="chapter " data-level="6.6" data-path="understanding_data/data_stories.html">
+            
+            <a href="../understanding_data/data_stories.html">
+                <i class="fa fa-check"></i> <b>6.6.</b> Data Stories
+            </a>
+            
+            
+        </li>
+    
+        <li class="chapter " data-level="6.7" data-path="understanding_data/data_journalists_discuss_their_tools_of_choice.html">
+            
+            <a href="../understanding_data/data_journalists_discuss_their_tools_of_choice.html">
+                <i class="fa fa-check"></i> <b>6.7.</b> Data Journalists Discuss Their Tools of Choice
+            </a>
+            
+            
+        </li>
+    
+        <li class="chapter " data-level="6.8" data-path="understanding_data/using_data_visualization_to_find_insights_in_data.html">
+            
+            <a href="../understanding_data/using_data_visualization_to_find_insights_in_data.html">
+                <i class="fa fa-check"></i> <b>6.8.</b> Using Data Visualization to Find Insights in Data
+            </a>
+            
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="7" data-path="delivering_data/README.html">
+            
+            <a href="../delivering_data/README.html">
+                <i class="fa fa-check"></i> <b>7.</b> Delivering Data
+            </a>
+            
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="7.1" data-path="delivering_data/presenting_data_to_the_public.html">
+            
+            <a href="../delivering_data/presenting_data_to_the_public.html">
+                <i class="fa fa-check"></i> <b>7.1.</b> Presenting Data to the Public
+            </a>
+            
+            
+        </li>
+    
+        <li class="chapter " data-level="7.2" data-path="delivering_data/how_to_build_a_news_app.html">
+            
+            <a href="../delivering_data/how_to_build_a_news_app.html">
+                <i class="fa fa-check"></i> <b>7.2.</b> How to Build a News App
+            </a>
+            
+            
+        </li>
+    
+        <li class="chapter " data-level="7.3" data-path="delivering_data/news_apps_at_propublica.html">
+            
+            <a href="../delivering_data/news_apps_at_propublica.html">
+                <i class="fa fa-check"></i> <b>7.3.</b> News Apps at ProPublica
+            </a>
+            
+            
+        </li>
+    
+        <li class="chapter " data-level="7.4" data-path="delivering_data/visualization_as_the_workhorse_of_data_journalism.html">
+            
+            <a href="../delivering_data/visualization_as_the_workhorse_of_data_journalism.html">
+                <i class="fa fa-check"></i> <b>7.4.</b> Visualization as the Workhorse of Data Journalism
+            </a>
+            
+            
+        </li>
+    
+        <li class="chapter " data-level="7.5" data-path="delivering_data/using_visualizations_to_tell_stories.html">
+            
+            <a href="../delivering_data/using_visualizations_to_tell_stories.html">
+                <i class="fa fa-check"></i> <b>7.5.</b> Using visualizations to Tell Stories
+            </a>
+            
+            
+        </li>
+    
+        <li class="chapter " data-level="7.6" data-path="delivering_data/designing_with_data.html">
+            
+            <a href="../delivering_data/designing_with_data.html">
+                <i class="fa fa-check"></i> <b>7.6.</b> Designing With Data
+            </a>
+            
+            
+        </li>
+    
+        <li class="chapter " data-level="7.7" data-path="delivering_data/different_charts_tell_different_tales.html">
+            
+            <a href="../delivering_data/different_charts_tell_different_tales.html">
+                <i class="fa fa-check"></i> <b>7.7.</b> Different Charts Tell Different Tales
+            </a>
+            
+            
+        </li>
+    
+        <li class="chapter " data-level="7.8" data-path="delivering_data/data_visualization_diy_our_top_tools.html">
+            
+            <a href="../delivering_data/data_visualization_diy_our_top_tools.html">
+                <i class="fa fa-check"></i> <b>7.8.</b> Data visualization DIY: Our Top Tools
+            </a>
+            
+            
+        </li>
+    
+        <li class="chapter " data-level="7.9" data-path="delivering_data/how_we_serve_data_at_verdens_gang.html">
+            
+            <a href="../delivering_data/how_we_serve_data_at_verdens_gang.html">
+                <i class="fa fa-check"></i> <b>7.9.</b> How We Serve Data at Verdens Gang
+            </a>
+            
+            
+        </li>
+    
+        <li class="chapter " data-level="7.10" data-path="delivering_data/public_data_goes_social.html">
+            
+            <a href="../delivering_data/public_data_goes_social.html">
+                <i class="fa fa-check"></i> <b>7.10.</b> Public Data Goes Social
+            </a>
+            
+            
+        </li>
+    
+        <li class="chapter " data-level="7.11" data-path="delivering_data/engaging_people_around_your_data.html">
+            
+            <a href="../delivering_data/engaging_people_around_your_data.html">
+                <i class="fa fa-check"></i> <b>7.11.</b> Engaging People Around Your Data
+            </a>
+            
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+
+
+        
+        <li class="divider"></li>
+        <li>
+            <a href="http://www.gitbook.io/" target="blank" class="gitbook-link">Generated using GitBook</a>
+        </li>
+        
+    </ul>
+</div>
+
+    <div class="book-body">
+        <div class="body-inner">
+            <div class="page-wrapper" tabindex="-1">
+                <div class="book-progress">
+    <div class="bar">
+        <div class="inner" style="width: 66.66666666666667%;min-width: 65.27777777777777%;"></div>
+    </div>
+    <div class="chapters">
+    
+        <a href="../index.html" title="Introduction" class="chapter done new-chapter" data-progress="0" style="left: 0%;"></a>
+    
+        <a href="../index/README.html" title="Front Matter" class="chapter done new-chapter" data-progress="1" style="left: 1.3888888888888888%;"></a>
+    
+        <a href="../index/for_the_great_unnamed.html" title="For the Great Unnamed" class="chapter done " data-progress="1.1" style="left: 2.7777777777777777%;"></a>
+    
+        <a href="../index/contributor_list.html" title="Contributor List" class="chapter done " data-progress="1.2" style="left: 4.166666666666667%;"></a>
+    
+        <a href="../index/what_this_book_is_and_what_it_isnt.html" title="What This Book Is (And What It Isn’t)" class="chapter done " data-progress="1.3" style="left: 5.555555555555555%;"></a>
+    
+        <a href="../index/the_handbook_at_a_glance.html" title="The Handbook At A Glance" class="chapter done " data-progress="1.4" style="left: 6.944444444444445%;"></a>
+    
+        <a href="../introduction/README.html" title="Introduction" class="chapter done new-chapter" data-progress="2" style="left: 8.333333333333334%;"></a>
+    
+        <a href="../introduction/what_is_data_journalism.html" title="What Is Data Journalism?" class="chapter done " data-progress="2.1" style="left: 9.722222222222221%;"></a>
+    
+        <a href="../introduction/why_journalists_should_use_data.html" title="Why Journalists Should Use Data" class="chapter done " data-progress="2.2" style="left: 11.11111111111111%;"></a>
+    
+        <a href="../introduction/why_is_data_journalism_important.html" title="Why Is Data Journalism Important?" class="chapter done " data-progress="2.3" style="left: 12.5%;"></a>
+    
+        <a href="../introduction/some_favorite_examples.html" title="Some Favorite Examples" class="chapter done " data-progress="2.4" style="left: 13.88888888888889%;"></a>
+    
+        <a href="../introduction/data_journalism_in_perspective.html" title="Data Journalism in Perspective" class="chapter done " data-progress="2.5" style="left: 15.277777777777779%;"></a>
+    
+        <a href="../in_the_newsroom/README.html" title="In The Newsroom" class="chapter done new-chapter" data-progress="3" style="left: 16.666666666666668%;"></a>
+    
+        <a href="../in_the_newsroom/the_abcs_data_journalism_play.html" title="The ABC’s Data Journalism Play" class="chapter done " data-progress="3.1" style="left: 18.055555555555557%;"></a>
+    
+        <a href="../in_the_newsroom/kaas_&amp;_mulvad_semi-finished_content_for_stakeholder_groups_-_see_more_at_httpdatajournalismhandbookorg10enin_the_newsroomhtmlsthasho3lz0jc0dpuf.html" title="Kaas &amp; Mulvad: Semi-finished Content for Stakeholder Groups" class="chapter done " data-progress="3.10" style="left: 19.444444444444443%;"></a>
+    
+        <a href="../in_the_newsroom/business_models_for_data_journalism.html" title="Business Models for Data Journalism" class="chapter done " data-progress="3.11" style="left: 20.833333333333332%;"></a>
+    
+        <a href="../in_the_newsroom/data_journalism_at_the_bbc.html" title="Data Journalism at the BBC" class="chapter done " data-progress="3.2" style="left: 22.22222222222222%;"></a>
+    
+        <a href="../in_the_newsroom/how_the_news_apps_team_at_chicago_tribune_works.html" title="How the News Apps Team at Chicago Tribune Works" class="chapter done " data-progress="3.3" style="left: 23.61111111111111%;"></a>
+    
+        <a href="../in_the_newsroom/behind_the_scenes_at_the_guardian_datablog.html" title="Behind the Scenes at the Guardian Datablog" class="chapter done " data-progress="3.4" style="left: 25%;"></a>
+    
+        <a href="../in_the_newsroom/data_journalism_at_the_zeit_online.html" title="Data Journalism at the Zeit Online" class="chapter done " data-progress="3.5" style="left: 26.38888888888889%;"></a>
+    
+        <a href="../in_the_newsroom/how_to_hire_a_hacker.html" title="How to Hire a Hacker" class="chapter done " data-progress="3.6" style="left: 27.77777777777778%;"></a>
+    
+        <a href="../in_the_newsroom/harnessing_external_expertise_through_hackthons.html" title="Harnessing External Expertise Through Hackthons" class="chapter done " data-progress="3.7" style="left: 29.166666666666668%;"></a>
+    
+        <a href="../in_the_newsroom/following_the_money_cross-border_collaboration.html" title="Following the Money: Cross-Border Collaboration" class="chapter done " data-progress="3.8" style="left: 30.555555555555557%;"></a>
+    
+        <a href="../in_the_newsroom/our_stories_come_as_code.html" title="Our Stories Come As Code" class="chapter done " data-progress="3.9" style="left: 31.944444444444443%;"></a>
+    
+        <a href="../case_studies/README.html" title="Case Studies" class="chapter done new-chapter" data-progress="4" style="left: 33.333333333333336%;"></a>
+    
+        <a href="../case_studies/the_opportunity_gap.html" title="The Opportunity Gap" class="chapter done " data-progress="4.1" style="left: 34.72222222222222%;"></a>
+    
+        <a href="../case_studies/illinois_school_report_cards.html" title="Illinois School Report Cards" class="chapter done " data-progress="4.10" style="left: 36.111111111111114%;"></a>
+    
+        <a href="../case_studies/hospital_billing.html" title="Hospital Billing" class="chapter done " data-progress="4.11" style="left: 37.5%;"></a>
+    
+        <a href="../case_studies/care_home_crisis.html" title="Care Home Crisis" class="chapter done " data-progress="4.12" style="left: 38.888888888888886%;"></a>
+    
+        <a href="../case_studies/the_tell-all_telephone.html" title="The Tell-All Telephone" class="chapter done " data-progress="4.13" style="left: 40.27777777777778%;"></a>
+    
+        <a href="../case_studies/which_car_model_mot_failure_rates.html" title="Which Car Model? MOT Failure Rates" class="chapter done " data-progress="4.14" style="left: 41.666666666666664%;"></a>
+    
+        <a href="../case_studies/bus_subsidies_in_argentina.html" title="Bus Subsidies in Argentina" class="chapter done " data-progress="4.15" style="left: 43.05555555555556%;"></a>
+    
+        <a href="../case_studies/citizen_data_reporters.html" title="Citizen Data Reporters" class="chapter done " data-progress="4.16" style="left: 44.44444444444444%;"></a>
+    
+        <a href="../case_studies/the_big_board_for_election_results.html" title="The Big Board for Election Results" class="chapter done " data-progress="4.17" style="left: 45.833333333333336%;"></a>
+    
+        <a href="../case_studies/crowdsourcing_the_price_of_water.html" title="Crowdsourcing the Price of Water" class="chapter done " data-progress="4.18" style="left: 47.22222222222222%;"></a>
+    
+        <a href="../case_studies/a_9_month_investigation_into_european_structural_funds.html" title="A 9 Month Investigation into European Structural Funds" class="chapter done " data-progress="4.2" style="left: 48.611111111111114%;"></a>
+    
+        <a href="../case_studies/the_eurozone_meltdown.html" title="The Eurozone Meltdown" class="chapter done " data-progress="4.3" style="left: 50%;"></a>
+    
+        <a href="../case_studies/covering_the_public_purse_with_openspendingorg.html" title="Covering the Public Purse with OpenSpending.org" class="chapter done " data-progress="4.4" style="left: 51.388888888888886%;"></a>
+    
+        <a href="../case_studies/finnish_parliamentary_elections_and_campaign_funding.html" title="Finnish Parliamentary Elections and Campaign Funding" class="chapter done " data-progress="4.5" style="left: 52.77777777777778%;"></a>
+    
+        <a href="../case_studies/electoral_hack_in_realtime.html" title="Electoral Hack in Realtime" class="chapter done " data-progress="4.6" style="left: 54.166666666666664%;"></a>
+    
+        <a href="../case_studies/data_in_the_news_wikileaks.html" title="Data in the News: Wikileaks" class="chapter done " data-progress="4.7" style="left: 55.55555555555556%;"></a>
+    
+        <a href="../case_studies/mapa76_hackathon.html" title="Mapa76 Hackathon" class="chapter done " data-progress="4.8" style="left: 56.94444444444444%;"></a>
+    
+        <a href="../case_studies/the_guardian_datablogs_coverage_of_the_uk_riots.html" title="The Guardian Datablog’s Coverage of the UK Riots" class="chapter done " data-progress="4.9" style="left: 58.333333333333336%;"></a>
+    
+        <a href="../getting_data/README.html" title="Getting Data" class="chapter done new-chapter" data-progress="5" style="left: 59.72222222222222%;"></a>
+    
+        <a href="../getting_data/a_five_minute_field_guide.html" title="A Five Minute Field Guide" class="chapter done " data-progress="5.1" style="left: 61.111111111111114%;"></a>
+    
+        <a href="../getting_data/your_right_to_data.html" title="Your Right to Data" class="chapter done " data-progress="5.2" style="left: 62.5%;"></a>
+    
+        <a href="../getting_data/wobbing_works_use_it.html" title="Wobbing Works. Use it!" class="chapter done " data-progress="5.3" style="left: 63.888888888888886%;"></a>
+    
+        <a href="../getting_data/getting_data_from_the_web.html" title="Getting Data from the Web" class="chapter done " data-progress="5.4" style="left: 65.27777777777777%;"></a>
+    
+        <a href="../getting_data/the_web_as_a_data_source.html" title="The Web as a Data Source" class="chapter done " data-progress="5.5" style="left: 66.66666666666667%;"></a>
+    
+        <a href="../getting_data/crowdsourcing_data_at_the_guardian_datablog.html" title="Crowdsourcing Data at the Guardian Datablog" class="chapter  " data-progress="5.6" style="left: 68.05555555555556%;"></a>
+    
+        <a href="../getting_data/how_the_datablog_used_crowdsourcing_to_cover_olympic_ticketing.html" title="How the Datablog Used Crowdsourcing to Cover Olympic Ticketing" class="chapter  " data-progress="5.7" style="left: 69.44444444444444%;"></a>
+    
+        <a href="../getting_data/using_and_sharing_data_the_black_letter,_fine_print,_and_reality.html" title="Using and Sharing Data: the Black Letter, Fine Print, and Reality" class="chapter  " data-progress="5.8" style="left: 70.83333333333333%;"></a>
+    
+        <a href="../understanding_data/README.html" title="Understanding Data" class="chapter  new-chapter" data-progress="6" style="left: 72.22222222222223%;"></a>
+    
+        <a href="../understanding_data/become_data_literate_in_3_simple_steps.html" title="Become Data Literate in 3 Simple Steps" class="chapter  " data-progress="6.1" style="left: 73.61111111111111%;"></a>
+    
+        <a href="../understanding_data/tips_for_working_with_numbers_in_the_news.html" title="Tips for Working with Numbers in the News" class="chapter  " data-progress="6.2" style="left: 75%;"></a>
+    
+        <a href="../understanding_data/basic_steps_in_working_with_data.html" title="Basic Steps in Working with Data" class="chapter  " data-progress="6.3" style="left: 76.38888888888889%;"></a>
+    
+        <a href="../understanding_data/the_32_loaf_of_bread.html" title="The £32 Loaf of Bread" class="chapter  " data-progress="6.4" style="left: 77.77777777777777%;"></a>
+    
+        <a href="../understanding_data/start_with_the_data,_finish_with_a_story.html" title="Start With the Data, Finish With a Story" class="chapter  " data-progress="6.5" style="left: 79.16666666666667%;"></a>
+    
+        <a href="../understanding_data/data_stories.html" title="Data Stories" class="chapter  " data-progress="6.6" style="left: 80.55555555555556%;"></a>
+    
+        <a href="../understanding_data/data_journalists_discuss_their_tools_of_choice.html" title="Data Journalists Discuss Their Tools of Choice" class="chapter  " data-progress="6.7" style="left: 81.94444444444444%;"></a>
+    
+        <a href="../understanding_data/using_data_visualization_to_find_insights_in_data.html" title="Using Data Visualization to Find Insights in Data" class="chapter  " data-progress="6.8" style="left: 83.33333333333333%;"></a>
+    
+        <a href="../delivering_data/README.html" title="Delivering Data" class="chapter  new-chapter" data-progress="7" style="left: 84.72222222222223%;"></a>
+    
+        <a href="../delivering_data/presenting_data_to_the_public.html" title="Presenting Data to the Public" class="chapter  " data-progress="7.1" style="left: 86.11111111111111%;"></a>
+    
+        <a href="../delivering_data/public_data_goes_social.html" title="Public Data Goes Social" class="chapter  " data-progress="7.10" style="left: 87.5%;"></a>
+    
+        <a href="../delivering_data/engaging_people_around_your_data.html" title="Engaging People Around Your Data" class="chapter  " data-progress="7.11" style="left: 88.88888888888889%;"></a>
+    
+        <a href="../delivering_data/how_to_build_a_news_app.html" title="How to Build a News App" class="chapter  " data-progress="7.2" style="left: 90.27777777777777%;"></a>
+    
+        <a href="../delivering_data/news_apps_at_propublica.html" title="News Apps at ProPublica" class="chapter  " data-progress="7.3" style="left: 91.66666666666667%;"></a>
+    
+        <a href="../delivering_data/visualization_as_the_workhorse_of_data_journalism.html" title="Visualization as the Workhorse of Data Journalism" class="chapter  " data-progress="7.4" style="left: 93.05555555555556%;"></a>
+    
+        <a href="../delivering_data/using_visualizations_to_tell_stories.html" title="Using visualizations to Tell Stories" class="chapter  " data-progress="7.5" style="left: 94.44444444444444%;"></a>
+    
+        <a href="../delivering_data/designing_with_data.html" title="Designing With Data" class="chapter  " data-progress="7.6" style="left: 95.83333333333333%;"></a>
+    
+        <a href="../delivering_data/different_charts_tell_different_tales.html" title="Different Charts Tell Different Tales" class="chapter  " data-progress="7.7" style="left: 97.22222222222223%;"></a>
+    
+        <a href="../delivering_data/data_visualization_diy_our_top_tools.html" title="Data visualization DIY: Our Top Tools" class="chapter  " data-progress="7.8" style="left: 98.61111111111111%;"></a>
+    
+        <a href="../delivering_data/how_we_serve_data_at_verdens_gang.html" title="How We Serve Data at Verdens Gang" class="chapter  " data-progress="7.9" style="left: 100%;"></a>
+    
+    </div>
+</div>
+
+                <div class="page-inner">
+                
+                    <section class="normal" id="section-gitbook_1957">
+                    
+                        <h1 id="the-web-as-a-data-source">The Web as a Data Source</h1>
+<p>How can you find out more about something that only exists on the internet? Whether you’re looking at an email address, website, image, or Wikipedia article, in this chapter I’ll take you through the tools that will tell you more about their backgrounds.</p>
+<h2 id="web-tools">Web Tools</h2>
+<p>First, a few different services you can use to discover more about an entire site, rather than a particular page.</p>
+<h3 id="whois">Whois</h3>
+<p>If you go to <a href="http://whois.domaintools.com/" target="_blank">whois.domaintools.com</a> (or just type whois <a href="http://www.iana.org/domains/example/" target="_blank">www.example.com</a> in Terminal.app on a Mac) you can get the basic registration information for any website. In recent years, some owners have chosen ‘private’ registration which hides their details from view, but in many cases you’ll see a name, address, email and phone number for the person who registered the site. You can also enter numerical IP addresses here and get data on the organization or individual that owns that server. This is especially handy when you’re trying to track down more information on an abusive or malicious user of a service, since most websites record an IP address for everyone who accesses them.</p>
+<h3 id="blekko">Blekko</h3>
+<p>The <a href="http://blekko.com/" target="_blank">Blekko</a> search engine offers an unusual amount of insight into the internal statistics it gathers on sites as it crawls the web. If you type in a domain name followed by ‘/seo’ you’ll receive a page of information on that URL. The first tab in Figure 59 shows you which other sites are linking to the domain in popularity order. This can be extremely useful when you’re trying to understand what coverage a site is receiving, and if you want to understand why it’s ranking highly in Google’s search results, since they’re based on those inbound links. Figure 61 tells you which other websites are running from the same machine. It’s common for scammers and spammers to astroturf their way towards legitimacy by building multiple sites that review and link to each other. They look like independent domains, and may even have different registration details but often they’ll actually live on the same server because that’s a lot cheaper. These statistics give you an insight into the hidden business structure of the site you’re researching.</p>
+<p><img src="http://datajournalismhandbook.org/1.0/en/figs/incoming/06-PP-01.png" alt="figs/incoming/06-PP-01.png
+" title="Figure 59. The Blekko search engine (Blekko.com)"></p>
+<center><small>Figure 59. The Blekko search engine (Blekko.com)</small></center>
+
+<p><img src="http://datajournalismhandbook.org/1.0/en/figs/incoming/06-PP-02.png" alt="figs/incoming/06-PP-02.png
+" title="Figure 60. Understanding web popularity: who links to who? The other handy tab is &#39;Crawl stats&#39;, especially the &quot;Cohosted with&quot; section. (Blekko.com)"></p>
+<center><small>Figure 60. Understanding web popularity: who links to who? The other handy tab is &quot;Crawl stats&quot;, especially the &quot;Cohosted with&quot; section. (Blekko.com)</small></center>
+
+<p><img src="http://datajournalismhandbook.org/1.0/en/figs/incoming/06-PP-03.png" alt="figs/incoming/06-PP-03.png
+" title="Figure 61. Spotting web spammers and scammers (Blekko.com)"></p>
+<center><small>Figure 61. Spotting web spammers and scammers (Blekko.com)</small></center>
+
+<h3 id="compete-com">Compete.com</h3>
+<p>By surveying a cross-section of American consumers, <a href="http://www.compete.com/maintenance.html" target="_blank">Compete.com</a> builds up detailed usage statistics for most websites, and they make some basic details freely available. Choose the ‘Site Profile’ tab and enter a domain (Figure 62). You’ll then see a graph of the site’s traffic over the last year, together with figures for how many people visited, and how often (as in Figure 63). Since they’re based on surveys, the numbers are only approximate, but I’ve found them reasonably accurate when I’ve been able to compare them against internal analytics. In particular, they seem to be a good source when comparing two sites, since while the absolute numbers may be off for both, it’s still a good representation of their relative difference in popularity. They only survey US consumers though, so the data will be poor for predominantly international sites.</p>
+<p><img src="http://datajournalismhandbook.org/1.0/en/figs/incoming/06-PP-04.png" alt="figs/incoming/06-PP-04.png
+" title="Figure 62. Compete.com’s site profile service (Compete.com)"></p>
+<center><small>Figure 62. Compete.com’s site profile service (Compete.com)</small></center>
+
+<p><img src="http://datajournalismhandbook.org/1.0/en/figs/incoming/06-PP-05.png" alt="figs/incoming/06-PP-05.png
+" title="Figure 63. What’s in vogue? What’s in demand?: hotspots on the web (Compete.com)"></p>
+<center><small>Figure 63. What’s in vogue? What’s in demand?: hotspots on the web (Compete.com)</small></center>
+
+<h3 id="google-s-site-search">Google’s Site Search</h3>
+<p>One feature that can be extremely useful when you’re trying to explore all the content on a particular domain is the ‘site:’ keyword. If you add ‘site:example.com’ to your search phrase, Google will only return results from the site you’ve specified. You can even narrow it down further by including the prefix of the pages you’re interested in, for example ‘site:example.com/pages/’, and you’ll only see results that match that pattern. This can be extremely useful when you’re trying to find information that domain owners may have made publicly available but aren’t keen to publicise, so picking the right keywords can uncover some very revealing material.</p>
+<h2 id="web-pages-images-and-videos">Web Pages, Images, and Videos</h2>
+<p>Sometimes you’re interested in the activity that’s surrounding a particular story, rather than an entire website. The tools below give you different angles on how people are reading, responding to, copying, and sharing content on the web.</p>
+<h3 id="bit-ly">Bit.ly</h3>
+<p>I always turn to <a href="http://bitly.com/" target="_blank">bit.ly</a> when I want to know how people are sharing a particular link with each other. To use it, enter the URL you’re interested in. Then click on the ‘Info Page+’ link. That takes you to the full statistics page (though you may need to choose ‘aggregrate bit.ly link’ first if you’re signed in to the service). This will give you an idea of how popular the page is, including activity on Facebook and Twitter, and below that you’ll see public conversations about the link provided by backtype.com. I find this combination of traffic data and conversations very helpful when I’m trying to understand why a site or page is popular, and who exactly its fans are. For example, it provided me with strong evidence that the prevailing narrative about grassroots sharing and Sara Palin was wrong.</p>
+<h3 id="twitter">Twitter</h3>
+<p>As the micro-blogging service becomes more widely used, it becomes more useful as a gauge of how people are sharing and talking about individual pieces of content. It’s deceptively simple to discover public conversations about a link. You just paste the URL you’re interested in into the search box, and then possibly hit ‘more tweets’ to see the full set of results.</p>
+<h3 id="google-s-cache">Google’s Cache</h3>
+<p>When a page becomes controversial, the publishers may take it down or alter it without acknowledgement. If you suspect you’re running into the problem, the first place to turn is Google’s cache of the page as it was when it did its last crawl. The frequency of crawls is constantly increasing, so you’ll have the most luck if you try this within a few hours of the suspected changes. Enter the target URL in Google’s search box, and then click the triple arrow on the right of the result for that page. A graphical preview should appear, and if you’re lucky there will be a small ‘Cache’ link at the top of it. Click that to see Google’s snapshot of the page. If that has trouble loading, you can switch over to the more primitive text-only page by clicking another link at the top of the full cache page. You’ll want to take a screenshot or copy-paste any relevant content you do find, since it may be invalidated at any time by a subsequent crawl.</p>
+<h3 id="the-internet-archive-s-wayback-machine">The Internet Archive’s Wayback Machine</h3>
+<p>If you need to know how a particular page has changed over a longer time period, like months or years, the Internet Archive runs a service called <a href="http://archive.org/web/web.php" target="_blank">The Wayback Machine</a> that periodically takes snapshots of the most popular pages on the web. You go to the site, enter the link you want to research, and if it has any copies it will show you a calendar so you can pick the time you’d like to examine. It will then present a version of the page roughly as it was at that point. It will often be missing styling or images, but it’s usually enough to understand what the focus of that page’s content was then.</p>
+<h3 id="view-source">View Source</h3>
+<p>It’s a bit of a long-shot, but developers often leave comments or other clues in the HTML code that underlies any page. It will be on different menus depending on your browser, but there’s always a ‘View source’ option that will let you browse the raw HTML. You don’t need to understand what the machine-readable parts mean, just keep an eye out for the pieces of text that are often scattered amongst them. Even if they’re just copyright notices or mentions of the author’s names, these can often give important clues about the creation and purpose of the page.</p>
+<h3 id="tineye">TinEye</h3>
+<p>Sometimes you really want to know the source of an image, but without clear attribution text there’s no obvious way to do this with traditional search engines like Google. <a href="http://www.tineye.com/" target="_blank">TinEye</a> offers a specialised ‘reverse image search’ process, where you give it the image you have, and it finds other pictures on the web that look very similar. Because they use image recognition to do the matching, it even works when a copy has been cropped, distorted or compressed. This can be extremely effective when you suspect that an image that’s being passed off as original or new is being misrepresented, since it can lead back to the actual source.</p>
+<h3 id="youtube">YouTube</h3>
+<p>If you click on the ‘Statistics’ icon to the lower right of any video, you can get a rich set of information about its audience over time. While it’s not complete, it is useful for understanding roughly who the viewers are, where they are coming from, and when.</p>
+<h3 id="emails">Emails</h3>
+<p>If you have some emails that you’re researching, you’ll often want to know more details about the sender’s identity and location. There isn’t a good off-the-shelf tool available to help with this, but it can be very helpful to know the basics about the hidden headers included in every email message. These work like postmarks, and can reveal a surprising amount about the sender. In particular, they often include the IP address of the machine that the email was sent from, a lot like caller ID on a phone call. You can then run whois on that IP number to find out which organization owns that machine. If it turns out to be someone like Comcast or AT&amp;T who provide connections to consumers, then you can visit MaxMind to get its approximate location. To view these headers in Gmail, open the message and open the menu next to reply on the top right and choose ‘Show original’. You’ll then see a new page revealing the hidden content. There will be a couple of dozen lines at the start that are words followed by a colon. The IP address you’re after may be in one of these, but its name will depend on how the email was sent. If it was from Hotmail, it will be called ‘X-Originating-IP:’, but if it’s from Outlook or Yahoo it will be in the first line starting with ‘Received:’. Running the address through Whois tells me it’s assigned to Virgin Media, an ISP in the UK, so I put it through MaxMind’s geolocation service to discover it’s coming from my home town of Cambridge. That means I can be reasonably confident this is actually my parents emailing me, not impostors!</p>
+<h2 id="trends">Trends</h2>
+<p>If you’re digging into a broad topic rather than a particular site or item, here’s a couple of tools that can give you some insight.</p>
+<h3 id="wikipedia-article-traffic">Wikipedia Article Traffic</h3>
+<p>If you’re interested in knowing how public interest in a topic or person has varied over time, you can actually get day-by-day viewing figures for any page on Wikipedia at <a href="http://stats.grok.se/" target="_blank">stats.grok.se/</a>. This site is a bit rough and ready, but will let you uncover the information you need with a bit of digging. Enter the name you’re interested in to get a monthly view of the traffic on that page. That will bring up a graph showing how many times the page was viewed for each day in the month you specify. Unfortunately you can only see one month at a time, so you’ll have to select a new month and search again to see longer-term changes.</p>
+<h3 id="google-insights">Google Insights</h3>
+<p>You can get a clear view into the public’s search habits using <a href="http://www.google.com/insights/search/" target="_blank">Insights from Google</a>. Enter a couple of common search phrases, like ‘Justin Bieber vs Lady Gaga’, and you’ll see a graph of their relative number of searches over time. There’s a lot of options for refining your view of the data, from narrower geographic areas, to more detail over time. The only disappointment is the lack of absolute values, you only get relative percentages which can be hard to interpret.</p>
+<p><img src="http://datajournalismhandbook.org/1.0/en/figs/incoming/06-PP-06.png" alt="figs/incoming/06-PP-06.png
+"></p>
+<center><small>Figure 64. Google Insights (Google)</small></center>
+
+<p>— <em>Pete Warden, Independent Data Analyst and Developer</em></p>
+
+                    
+                    </section>
+                
+                </div>
+            </div>
+        </div>
+
+        
+        <a href="../getting_data/getting_data_from_the_web.html" class="navigation navigation-prev " aria-label="Previous page: Getting Data from the Web"><i class="fa fa-angle-left"></i></a>
+        
+        
+        <a href="../getting_data/crowdsourcing_data_at_the_guardian_datablog.html" class="navigation navigation-next " aria-label="Next page: Crowdsourcing Data at the Guardian Datablog"><i class="fa fa-angle-right"></i></a>
+        
+    </div>
+</div>
+
+        
+<script src="../gitbook/jsrepl/jsrepl.js" id="jsrepl-script"></script>
+<script src="../gitbook/app.js"></script>
+
+    
+    <script src="http://cdn.mathjax.org/mathjax/2.0-latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    
+
+    
+    <script src="../gitbook/plugins/gitbook-plugin-mathjax/plugin.js"></script>
+    
+
+<script>
+require(["gitbook"], function(gitbook) {
+    var config = {};
+    gitbook.start(config);
+});
+</script>
+
+        
+    </body>
+    
+</html>
