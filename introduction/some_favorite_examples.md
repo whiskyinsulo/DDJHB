@@ -4,11 +4,8 @@ We asked some of our contributors for their favorite examples of data journalism
 
 ###Do No Harm in the Las Vegas Sun
 
-
-
-![](http://datajournalismhandbook.org/1.0/en/figs/incoming/01-GG.png "Figure 5. Do No Harm (The Las Vegas Sun)")
-
-<center><small>Figure 5. Do No Harm (The Las Vegas Sun)</small></center>
+<CENTER>![](http://datajournalismhandbook.org/1.0/en/figs/incoming/01-GG.png "Figure 5. Do No Harm (The Las Vegas Sun)")
+<center><small>Figure 5. Do No Harm (The Las Vegas Sun)</small></center><BR>
 
 My favourite example is the Las Vegas Sun’s 2010 [Do No Harm](http://www.lasvegassun.com/hospital-care/) series on hospital care (see Figure 5). The Sun analyzed more than 2.9 million hospital billing records, which revealed more than 3600 preventable injuries, infections and surgical mistakes. They obtained data through a public records request and identified more than 300 cases in which patients died because of mistakes that could have been prevented. It contains different elements, including: [an interactive graphic](http://www.lasvegassun.com/hospital-care/surgical-injuries-interactive/) which allows the reader to see by hospital, where surgical injuries happened more often than would be expected; [a map](http://www.lasvegassun.com/hospital-care/infections-interactive/) with a timeline that shows infections spreading hospital by hospital; and [an interactive graphic](http://www.lasvegassun.com/hospital-care/events-chart/) that allows users to sort data by preventable injuries or by hospital to see where people are getting hurt. I like it because it is very easy to understand and navigate. Users can explore the data in a very intuitive way. Also it had a real impact: the Nevada legislature responded with [six pieces of legislation](http://www.lasvegassun.com/news/2011/apr/14/health-care-transparency-bills-pass-key-milestone-). The journalists involved worked very hard to acquire and clean up the data. One of the journalists, Alex Richards, sent data back to hospitals and to the state [at least a dozen times](http://www.poynter.org/latest-news/als-morning-meeting/128672/las-vegas-sun-pulitzer-finalists-explain-how-they-turned-data-into-web-gold/) to get mistakes corrected.
 
