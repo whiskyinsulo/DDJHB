@@ -4,7 +4,7 @@ Journalism is under siege. In the past we, as an industry, relied on being the o
 
 Today news stories are flowing in as they happen, from multiple sources, eye-witnesses, blogs and what has happened is filtered through a vast network of social connections, being ranked, commented and more often than not: ignored.
 
-This is why data journalism is so important. Gathering, filtering and visualizing what is happening beyond what the eye can see has a growing value. The orange juice you drink in the morning, the coffee you brew — in today’s global economy there are invisible connections between these products, other people and you. The language of this network is data: little points of information that are often not relevant in a single instance, but massively important when viewed from the right angle.
+This is why data journalism is so important. Gathering, filtering and visualizing what is happening beyond what the eye can see has a growing value. The orange juice you drink in the morning, the coffee you brew - in today’s global economy there are invisible connections between these products, other people and you. The language of this network is data: little points of information that are often not relevant in a single instance, but massively important when viewed from the right angle.
 
 Right now, a few pioneering journalists already demonstrate how data can be used to create deeper insights into what is happening around us and how it might affect us.
 
@@ -26,7 +26,9 @@ There is one barrier keeping journalists from using this potential: training in 
 
 Working with data is like stepping into vast, unknown territory. At first look, raw data is puzzling to the eyes and to the mind. Data as such is unwieldy. It is quite hard to shape it correctly for visualization. It needs experienced journalists, who have the stamina to look at often confusing, often boring raw data and “see” the hidden stories in there.
 
+
 ![](http://datajournalismhandbook.org/1.0/en/figs/incoming/01-DD.png "Figure 4. European Journalism Centre Survey on Training Needs")
+
 <center><small>Figure 4. European Journalism Centre Survey on Training Needs</small></center>
 
 ###The Survey
