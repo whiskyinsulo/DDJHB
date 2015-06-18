@@ -23,7 +23,7 @@ I love the work that small independent organizations are performing every day, s
 
 ###Full-text visualization of the Iraqi War Logs, Associated Press
 
-![](http://datajournalismhandbook.org/1.0/en/figs/incoming/01-YY.jpg "Figure 7. Analyzing the War Logs (Associated Press)")
+<CENTER>![](http://datajournalismhandbook.org/1.0/en/figs/incoming/01-YY.jpg "Figure 7. Analyzing the War Logs (Associated Press)")
 
 <center><small>Figure 7. Analyzing the War Logs (Associated Press)</small></center>
 
