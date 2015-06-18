@@ -27,7 +27,7 @@ There is one barrier keeping journalists from using this potential: training in 
 Working with data is like stepping into vast, unknown territory. At first look, raw data is puzzling to the eyes and to the mind. Data as such is unwieldy. It is quite hard to shape it correctly for visualization. It needs experienced journalists, who have the stamina to look at often confusing, often boring raw data and “see” the hidden stories in there.
 
 
-![](http://datajournalismhandbook.org/1.0/en/figs/incoming/01-DD.png "Figure 4. European Journalism Centre Survey on Training Needs")
+<CENTER>![](http://datajournalismhandbook.org/1.0/en/figs/incoming/01-DD.png "Figure 4. European Journalism Centre Survey on Training Needs")
 
 <center><small>Figure 4. European Journalism Centre Survey on Training Needs</small></center>
 
