@@ -13,9 +13,10 @@ My favourite example is the Las Vegas Sun’s 2010 [Do No Harm](http://www.lasve
 
 ###Government Employee Salary Database
 
-![](http://datajournalismhandbook.org/1.0/en/figs/incoming/01-FF.png "Figure 6. Government Employee Salaries (The Texas Tribune)")
+<CENTER>![](http://datajournalismhandbook.org/1.0/en/figs/incoming/01-FF.png "Figure 6. Government Employee Salaries (The Texas Tribune)")</CENTER>
 
-<center><small>Figure 6. Government Employee Salaries (The Texas Tribune)</small></center>
+<CENTER><small>Figure 6. Government Employee Salaries (The Texas Tribune)</small></CENTER>
+
 
 I love the work that small independent organizations are performing every day, such as ProPublica or the Texas Tribune who have a great data reporter in Ryan Murphy. If I had to choose, I’d pick the [Government Employee Salary Database](http://www.texastribune.org/library/data/government-employee-salaries/) project from the Texas Tribune (Figure 6). This project collects 660,000 government employee salaries into a database for users to search and help generate stories from. You can search by agency, name or salary. It’s simple, meaningful and is making inaccessible information public. It is easy to use and automatically generates stories. It is a great example of why the Texas Tribune gets most of its traffic from the data pages.
 
