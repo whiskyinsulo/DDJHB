@@ -1,8 +1,8 @@
 # What Is Data Journalism?
 
-![](http://datajournalismhandbook.org/1.0/en/figs/incoming/01-01.png "Figure 3. Investigate your MP’s Expenses (The Guardian)")
+<center>![](http://datajournalismhandbook.org/1.0/en/figs/incoming/01-01.png "Figure 3. Investigate your MP’s Expenses (The Guardian)")
 
-<center><small>Figure 3. Investigate your MP’s Expenses (The Guardian)</small></center>
+<center><small>Figure 3. Investigate your MP’s Expenses (The Guardian)</small></center><br>
 
 What is data journalism? I could answer, simply, that it is journalism done with data. But that doesn’t help much.
 
