@@ -3,7 +3,7 @@
 ![figs/incoming/02-XY.jpg
 ](http://datajournalismhandbook.org/1.0/en/figs/incoming/02-XY.jpg "Figure 22. Hackathons: how to boost collaboration between journalists and developers (photo by Heinze Havinga)")
 
-<center><small>Figure 22. Hackathons: how to boost collaboration between journalists and developers (photo by Heinze Havinga)</small></center>
+<small>Figure 22. Hackathons: how to boost collaboration between journalists and developers (photo by Heinze Havinga)</small>
 
 In March 2010, Utrecht based digital culture organzation SETUP put on an event called [‘Hacking Journalism’](http://setup.nl/content/hacking-journalism). The event was organised to encourage greater collaboration between developers and journalists.
 
@@ -11,7 +11,7 @@ In March 2010, Utrecht based digital culture organzation SETUP put on an event c
 
 Working for a regional newspaper, there was no money or incentive to hire a programmer for the newsroom. Data journalism was still an unknown quantity for Dutch newspapers at that time.
 
-The hackathon model was perfect. A relaxed environment for collaboration, with plenty of pizza and energy drinks. [RegioHack](http://www.regiohack.nl/) was a hackathon organised by my employer, the regional newspaper De Stentor, our sister publication [TC Tubantia](http://www.tctubantia.nl/) and [Saxion Hogescholen Enschede](http://saxion.nl/), who provided the location for the event.
+The hackathon model was perfect. A relaxed environment for collaboration, with plenty of pizza and energy drinks. [RegioHack](http://www.regiohack.nl/) was a hackathon organised by my employer, the regional newspaper [De Stentor](http://www.destentor.nl/), our sister publication [TC Tubantia](http://www.tctubantia.nl/) and [Saxion Hogescholen Enschede](http://saxion.nl/), who provided the location for the event.
 
 The setup was as following: everyone could enlist for a 30-hour hackathon. We provided the food and drink. We aimed for 30 participants, which we divided into 6 groups. These groups would focus on different topics, such as crime, health, transport, safety, ageing and power. For us, the three main objectives for this event were as follows:
 
@@ -33,7 +33,7 @@ We also started a very ambitious project, called De Tweehonderd van Twente (in E
 ![figs/incoming/02-YY.jpg
 ](http://datajournalismhandbook.org/1.0/en/figs/incoming/02-YY.jpg "Figure 23. New communities around data journalism (photo by Heinze Havinga)")
 
-<center><small>Figure 23. New communities around data journalism (photo by Heinze Havinga)</small></center>
+<small>Figure 23. New communities around data journalism (photo by Heinze Havinga)</small>
 
 After RegioHack, we noticed that journalists considered data journalism as a viable addition to traditional journalism. My colleagues continued to use and build on the techniques learned on the day to create more ambitious and technical projects such as a database of the administrative costs of housing. With this data, I made [an interactive map in Fusion Tables](http://www.destentor.nl/regio/10168441/.ece). We asked our readers to play around with the data and crowdsourced results ([here](http://tjoadesign.nl/blog/?p=439), for example). After a lot of questions on how we made a map in Fusion Tables, I also recorded a [video tutorial](http://www.jerryvermanen.nl/2012/01/tutorial-fusion-tables/).
 
@@ -58,3 +58,5 @@ Also, we are considering how to continue RegioHack in a hackathon form. We found
 But for data journalism to work, we have to integrate it in the newsroom. Journalists have to think in data, in addition to quotes, press releases, council meetings and so on. By doing RegioHack, we proved to our audience that data journalism isn’t just hype. We can write better informed and more distinctive articles, while presenting our readers different articles in print and online.
 
 — *Jerry Vermanen, NU.nl*
+
+.

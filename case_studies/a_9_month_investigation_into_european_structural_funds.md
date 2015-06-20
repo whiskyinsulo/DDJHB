@@ -3,7 +3,7 @@
 ![figs/incoming/03-OO-01.png
 ](http://datajournalismhandbook.org/1.0/en/figs/incoming/03-OO-01.png "Figure 28. EU Structural Funds Investigation (Bureau of Investigative Journalism)")
 
-<center><small>Figure 28. EU Structural Funds Investigation (Bureau of Investigative Journalism)</small></center>
+<small>Figure 28. EU Structural Funds Investigation (Bureau of Investigative Journalism)</small>
 
 In 2010, the [Financial Times](http://www.ft.com/intl/eu-funds) and the [Bureau of Investigative Journalism (BIJ)](http://www.thebureauinvestigates.com/category/projects/europes-hidden-billions/) joined forces to investigate European Structural Funds. The intention was to review who the beneficiaries of European Structural Funds are and check whether the money was put to good use. At €347bn over seven years Structural Funds is the second largest subsidy programme in the EU. The programme has existed for decades, but apart from broad, generalised overviews, there was little transparency about who the beneficiaries are. As part of a rule change in the current funding round, authorities are obliged to make public a list of beneficiaries, including project description and amount of EU and national funding received.
 

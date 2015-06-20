@@ -12,11 +12,11 @@ But it’s often difficult to know if that’s a lot or a little. For that, you 
 
 1. **Proportion** : ‘Last year local councils spent two-thirds of their stationery budget on paper clips’;
 
- Or<br><br>
+ Or<br>
 
 2. **Internal comparison** : ‘Local councils spend more on paper clips than on providing meals-on-wheels for the elderly’
 
- Or<br><br>
+ Or<br>
 
 3. **External comparison** : ‘Council spending on paper clips last year was twice the nation’s overseas aid budget’
 
@@ -24,16 +24,17 @@ But it’s often difficult to know if that’s a lot or a little. For that, you 
 
 4. **Change over time** : ‘Council spending on paper clips has trebled in the past four years’
 
- Or<br><br>
+ Or<br>
 
 5. **‘League tables’** : These are often geographical or by institution, and you must make sure the basis for comparison is fair, e.g. taking into account the size of the local population.
 
- ‘Borsetshire Council spends more on paper clips for each member of staff than any other local authority, at a rate four times the national average’
+ 'Borsetshire Council spends more on paper clips for each member of staff than any other local authority, at a rate four times the national average'
 
- Or you can divide the data subjects into groups:<br><br>
+ Or you can divide the data subjects into groups:<br>
+
 7. **Analysis by categories** : ‘Councils run by the Purple Party spend 50% more on paper clips than those controlled by the Yellow Party’
 
- Or you can relate factors numerically<br><br>
+ Or you can relate factors numerically<br>
 
 8. **Association** : ‘Councils run by politicians who have received donations from stationery companies spend more on paper clips, with spending increasing on average by £100 for each pound donated’
 

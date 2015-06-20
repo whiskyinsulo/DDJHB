@@ -9,7 +9,7 @@ There are at least three key concepts you need to understand when starting a dat
 ![figs/incoming/05-MM.png
 ](http://datajournalismhandbook.org/1.0/en/figs/incoming/05-MM.png "Figure 69. Messy Data")
 
-<center><small>Figure 69. Messy Data</small></center>
+<small>Figure 69. Messy Data</small>
 
 ###Know the Questions You Want to Answer
 
@@ -31,7 +31,7 @@ For example, a key function of a criminal justice system database is to make sur
 
 But such errors can skew a data journalist’s attempts to discover the patterns in the database. For that reason, the first big piece of work to undertake when you acquire a new data set is to examine how messy it is and then clean it up. A good quick way to look for messiness is to create frequency tables of the categorical variables, the ones that would be expected to have a relatively small number of different values. (When using Excel, for instance, you can do this by using Filter or Pivot Tables on each categorical variable.)
 
-Take “Gender”, an easy example. You may discover that your Gender field includes any of a mix of values like these: Male, Female, M, F, 1, 0, MALE, FEMALE, etc., including misspellings like ‘Femal’. To do a proper gender analysis, you must standardise — decide on M and F, perhaps — and then change all the variations to match the standards. Another common database with these kinds of problems are American campaign finance records, where the Occupation field might list “Lawyer”, “Attorney”, “Atty”, “Counsel”, “Trial Lawyer” and any of a wealth of variations and misspellings; again, the trick is to standardise the occupation titles into a shorter list of possibilities.
+Take “Gender”, an easy example. You may discover that your Gender field includes any of a mix of values like these: Male, Female, M, F, 1, 0, MALE, FEMALE, etc., including misspellings like ‘Femal’. To do a proper gender analysis, you must standardise - decide on M and F, perhaps - and then change all the variations to match the standards. Another common database with these kinds of problems are American campaign finance records, where the Occupation field might list “Lawyer”, “Attorney”, “Atty”, “Counsel”, “Trial Lawyer” and any of a wealth of variations and misspellings; again, the trick is to standardise the occupation titles into a shorter list of possibilities.
 
 Data cleanup gets even more problematic when working with names. Are “Joseph T. Smith”, “Joseph Smith”, “J.T. Smith”, “Jos. Smith” and “Joe Smith” all the same person? It may take looking at other variables like address or date of birth, or even deeper research in other records, to decide. But tools like Google Refine can make the cleanup and standardisation task faster and less tedious.
 
@@ -50,3 +50,5 @@ So the reporters went back to Clerk of the Court’s office that had produced th
 The lesson in this case is to always ask the agency giving you data if there are any undocumented elements in the data, whether it is newly-created codes that haven’t been included in the data dictionary, changes in the file layout, or anything else. Also, always examine the results of your analysis and ask “Does this make sense?” The Herald reporters were building the chart on deadline and were so focused on the average punishment levels of each judge that they failed to pay attention to the scant few cases that seemed to show no punishment. They should have asked themselves if it made sense that all the judges seemed to be violating state law, even if only to a tiny degree.
 
 — *Steve Doig, Walter Cronkite School of Journalism of Arizona State University*
+
+.

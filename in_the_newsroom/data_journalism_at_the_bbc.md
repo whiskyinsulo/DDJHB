@@ -3,7 +3,7 @@
 ![figs/incoming/02-05.png
 ](http://datajournalismhandbook.org/1.0/en/figs/incoming/02-05.png "Figure 15. The World at Seven Billion (BBC)")
 
-<center><small>Figure 15. The World at Seven Billion (BBC)</small></center>
+<small>Figure 15. The World at Seven Billion (BBC)</small>
 
 The term ‘data journalism’ can cover a range of disciplines and is used in varying ways in news organizations, so it may be helpful to define what we mean by ‘data journalism’ at the BBC. Broadly the term covers projects that use data to do one or more of the following:
 
@@ -61,6 +61,6 @@ We use Google and Bing Maps and Google Earth along with Esri’s ArcMAP for expl
 
 For graphics we use the Adobe Suite including After Effects, Illustrator, Photoshop and Flash, although we would rarely publish Flash files on the site these days as JavaScript, particularly JQuery and other JavaScript libraries like Highcharts, Raphael and D3 increasingly meet our data visualization requirements.
 
-— Bella Hurrell and Andrew Leimdorfer, BBC)
+— *Bella Hurrell and Andrew Leimdorfer, BBC)*
 
-- See more at: http://datajournalismhandbook.org/1.0/en/in_the_newsroom_1.html#sthash.RXXWenmo.dpuf
+.

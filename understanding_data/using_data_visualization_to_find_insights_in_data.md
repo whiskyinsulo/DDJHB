@@ -2,7 +2,7 @@
 
 *visualization is critical to data analysis. It provides a front line of attack, revealing intricate structure in data that cannot be absorbed in any other way. We discover unimagined effects, and we challenge imagined ones.*
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;— *William S. Cleveland: visualizing Data*
+   — *William S. Cleveland: visualizing Data*
 
 Data by itself, consisting of bits and bytes stored in a file on a computer hard drive, is invisible. In order to be able to see and make any sense of data, we need to visualize it. In this chapter I’m going to use a broader understanding of the term visualizing, that includes even pure textual representations of data. For instance, just loading a dataset into a spreadsheet software can be considered as data visualization. The invisible data suddenly turns into a visible ‘picture’ on our screen. Thus, the questions should not be whether journalists need to visualize data or not, but which kind of visualization may be the most useful in which situation.
 
@@ -19,7 +19,7 @@ In order to make the finding of insights in data more effective, I find the foll
 ![figs/incoming/05-BB.png
 ](http://datajournalismhandbook.org/1.0/en/figs/incoming/05-BB.png "Figure 71. Data insights: a visualization (Gregor Aisch)")
 
-<center><small>Figure 71. Data insights: a visualization (Gregor Aisch)</small></center>
+<small>Figure 71. Data insights: a visualization (Gregor Aisch)</small>
 
 Each of these steps will be discussed further in this section.
 
@@ -32,7 +32,7 @@ Tables are very powerful when you are dealing with a relatively small number of 
 ![figs/incoming/05-BC-graphical-table.png
 ](http://datajournalismhandbook.org/1.0/en/figs/incoming/05-BC-graphical-table.png "Figure 72. Tips from Tufte: sparklines (Gregor Aisch)")
 
-<center><small>Figure 72. Tips from Tufte: sparklines (Gregor Aisch)</small></center>
+<small>Figure 72. Tips from Tufte: sparklines (Gregor Aisch)</small>
 
 Charts, in general, allow you to map dimensions in your data to visual properties of geometric shapes. There’s much written about the effectiveness of individual visual properties, and the short version is: color is difficult, position is everything. In a scatterplot, for instance, two dimensions are mapped to the to the x- and y-position. You can even display a third dimension to the color or size of the displayed symbols. Line charts are especially suited for showing temporal evolutions while bar charts are perfect for comparing categorical data. You can stack chart elements on top of each other. If you want to compare a small number of groups in your data, displaying multiple instances of the same chart is a very powerful way (also referred to as small multiples). In all charts you can use different kinds of scales to explore different aspects in your data (e.g., linear or log scale).
 
@@ -41,14 +41,14 @@ In fact, most of the data we’re dealing with is somehow related to actual peop
 ![figs/incoming/05-BD-choropleth.png
 ](http://datajournalismhandbook.org/1.0/en/figs/incoming/05-BD-choropleth.png "Figure 73. Cloropeth (Gregor Aisch)")
 
-<center><small>Figure 73. Cloropeth (Gregor Aisch)</small></center>
+<small>Figure 73. Cloropeth (Gregor Aisch)</small>
 
 Speaking of relations, the fourth most important type of visualization is a graph. Graphs are all about showing the inter-connections (edges) in your data points (nodes). The position of the nodes is then calculated by more or less complex graph layout algorithms which allow us to immediately see the structure within the network. The trick about graph visualization in general is to find a proper way to model the network itself. Not all datasets already include relations and even if they do, it might not be the most interesting aspect to look at. Sometimes it’s up to the journalist to define edges between nodes. A perfect example of this is the [U.S. Senate Social Graph](http://www.slate.com/articles/news_and_politics/politics/2009/04/the_senate_social_network.html), whose edges connect senators that voted the same in more than 65% of the votes.
 
 ![figs/incoming/05-BE-graph.jpg
 ](http://datajournalismhandbook.org/1.0/en/figs/incoming/05-BE-graph.jpg "Figure 74. The Senate Social Network (slate.com)")
 
-<center><small>Figure 74. The Senate Social Network (slate.com)</small></center>
+<small>Figure 74. The Senate Social Network (slate.com)</small>
 
 ###Analyze and Interpret What You See
 
@@ -137,19 +137,19 @@ Even though this table shows the minimum and maximum amounts and the order, it d
 ![figs/incoming/05-CC.png
 ](http://datajournalismhandbook.org/1.0/en/figs/incoming/05-CC.png "Figure 75. visualizations to spot underlying patterns (Gregor Aisch)")
 
-<center><small>Figure 75. visualizations to spot underlying patterns (Gregor Aisch)</small></center>
+<small>Figure 75. visualizations to spot underlying patterns (Gregor Aisch)</small>
 
 Now, let us proceed with a bigger picture of the dataset. As a first step I visualized all contributed amounts over time in a simple plot. We can see that almost all donations are very very small compared to three really big outliers. Further investigation returns that these huge contribution are coming from the “Obama Victory Fund 2012” (also known as Super PAC) and were made on June 29th ($450k), September 29th ($1.5mio) and December 30th ($1.9mio).
 
 ![figs/incoming/05-DD.png](http://datajournalismhandbook.org/1.0/en/figs/incoming/05-DD.png "Figure 76. Three clear outliers (Gregor Aisch)")
 
-<center><small>Figure 76. Three clear outliers (Gregor Aisch)</small></center>
+<small>Figure 76. Three clear outliers (Gregor Aisch)</small>
 
 While the contributions by Super PACs alone is undoubtedly the biggest story in the data, it might be also interesting to look beyond it. The point now is that these big contributions disturb our view on the smaller contributions coming from individuals, so we’re going to remove them from the data. This transform is commonly known as outlier removal. After visualizing again, we can see that most of the donations are within the range of $10k and -$5k.
 
 ![figs/incoming/05-EE.png](http://datajournalismhandbook.org/1.0/en/figs/incoming/05-EE.png "Figure 77. Removing the outliers (Gregor Aisch)")
 
-<center><small>Figure 77. Removing the outliers (Gregor Aisch)</small></center>
+<small>Figure 77. Removing the outliers (Gregor Aisch)</small>
 
 According to the contribution limits placed by the FECA individuals are not allowed to donate more than $2500 to each candidate. As we see in the plot, there are numerous donations made above that limit. In particular two big contributions in May attract our attention. It seems that they are mirrored in negative amounts (refunds) June and July. Further investigation in the data reveals the following transactions:
 
@@ -164,25 +164,25 @@ Another interesting finding in the last plot is a horizontal line pattern for co
 
 ![figs/incoming/05-FF.png](http://datajournalismhandbook.org/1.0/en/figs/incoming/05-FF.png "Figure 78. Removing outliers 2 (Gregor Aisch)")
 
-<center><small>Figure 78. Removing outliers 2 (Gregor Aisch)</small></center>
+<small>Figure 78. Removing outliers 2 (Gregor Aisch)</small>
 
 What we can see is that there are many $5000 donations to Republican candidates. In fact, a look up in the data returns that these are 1243 donations, which is only 0.3% of the total number of donations, but since those donations are evenly spread across time, the line appears. The interesting thing about the line is that donations by individuals were limited to $2500. Consequently, every dollar above that limited was refunded to the donors, which results in the second line pattern at -$2500. In contrast, the contributions to Barack Obama don’t show a similar pattern.
 
 ![figs/incoming/05-GG.png](http://datajournalismhandbook.org/1.0/en/figs/incoming/05-GG.png "Figure 79. Removing outliers 3 (Gregor Aisch)")
 
-<center><small>Figure 79. Removing outliers 3 (Gregor Aisch)</small></center>
+<small>Figure 79. Removing outliers 3 (Gregor Aisch)</small>
 
 So, it might be interesting to find out why thousands of Republican donors did not notice the donation limit for individuals. To further analyze this topic, we can have a look at the total number of $5k donations per candidate.
 
 ![figs/incoming/05-HH.png](http://datajournalismhandbook.org/1.0/en/figs/incoming/05-HH.png "Figure 80. Donations per candidate (Gregor Aisch)")
 
-<center><small>Figure 80. Donations per candidate (Gregor Aisch)</small></center>
+<small>Figure 80. Donations per candidate (Gregor Aisch)</small>
 
 Of course, this is a rather distorted view since it does not consider the total amounts of donations received by each candidate. The next plot shows the percentage of $5k donations per candidate.
 
 ![figs/incoming/05-II.png](http://datajournalismhandbook.org/1.0/en/figs/incoming/05-II.png "Figure 81. Where does the senator’s money come from?: donations per candidate (Gregor Aisch)")
 
-<center><small>Figure 81. Where does the senator’s money come from?: donations per candidate (Gregor Aisch)</small></center>
+<small>Figure 81. Where does the senator’s money come from?: donations per candidate (Gregor Aisch)</small>
 
 ###What To Learn From This
 
@@ -197,3 +197,5 @@ All of the charts shown in this chapter were created using the wonderful and pow
 * [plot: contributions by authorised committees](https://gist.github.com/1816169)
 
 — *Gregor Aisch, Open Knowledge Foundation*
+
+.

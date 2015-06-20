@@ -2,7 +2,7 @@
 
 ![](http://datajournalismhandbook.org/1.0/en/figs/incoming/00-01.jpg "Figure 1. How it all began")
 
-<center><small>Figure 1. How it all began</small></center>
+<small>Figure 1. How it all began</small><br><br>
 
 The Data Journalism Handbook was born at a 48 hour workshop at MozFest 2011 in London. It subsequently spilled over into an international, collaborative effort involving dozens of data journalism’s leading advocates and best practitioners.
 

@@ -3,7 +3,7 @@
 ![figs/incoming/02-03-AA.png
 ](http://datajournalismhandbook.org/1.0/en/figs/incoming/02-03-AA.png "Figure 18. PISA based Wealth Comparison (Zeit Online)")
 
-<center><small>Figure 18. PISA based Wealth Comparison (Zeit Online)</small></center>
+<small>Figure 18. PISA based Wealth Comparison (Zeit Online)</small>
 
 The [PISA based Wealth Comparison](http://opendata.zeit.de/pisa-wohlstands-vergleich/visualisierung.php#/en/DEU-OECD) project is an interactive visualization that enables comparison of standards of living in different countries. The interactive uses data from the OECD’s comprehensive world education ranking report, [PISA 2009](http://en.wikipedia.org/wiki/Programme_for_International_Student_Assessment), published in December 2010. The report is based on a questionnaire which asks fifteen-year-old pupils about their living situation at home.
 
@@ -31,7 +31,7 @@ For example, on 9th November 2011 Deutsche Bank pledged to stop financing cluste
 ![figs/incoming/02-03-DD.png
 ](http://datajournalismhandbook.org/1.0/en/figs/incoming/02-03-DD.png "Figure 19. The Business of Bombs (Zeit Online)")
 
-<center><small>Figure 19. The Business of Bombs (Zeit Online)</small></center>
+<small>Figure 19. The Business of Bombs (Zeit Online)</small>
 
 To take another example: the [German Federal Statistic Office](https://www.destatis.de/EN/Homepage.html) has published a great dataset on vital statistics for Germany, including [modelling various demographic scenarios up until 2060](https://www.destatis.de/DE/ZahlenFakten/GesellschaftStaat/Bevoelkerung/Bevoelkerungsvorausberechnung/Bevoelkerungsvorausberechnung.html). The typical way to represent this is a population pyramid - such as [the one from the Federal Statistics Agency](https://www.destatis.de/bevoelkerungspyramide/).
 
@@ -42,4 +42,6 @@ With our colleagues from the science department we tried to give our readers a b
 ![figs/incoming/02-03-CC.png
 ](http://datajournalismhandbook.org/1.0/en/figs/incoming/02-03-CC.png "Figure 20. visualizing demographic data (Zeit Online)")
 
-<center><small>Figure 20. visualizing demographic data (Zeit Online)</small></center>
+<small>Figure 20. visualizing demographic data (Zeit Online)</small>
+
+.

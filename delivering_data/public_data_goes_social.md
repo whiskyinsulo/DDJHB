@@ -9,7 +9,7 @@ With the rise of mobile devices and an increasing number of Nigerians online, wi
 
 ![figs/incoming/06-YY.png](http://datajournalismhandbook.org/1.0/en/figs/incoming/06-YY.png "Figure 114. The BudgIT cut app (BudgIT Nigeria)")
 
-<center><small>Figure 114. The BudgIT cut app (BudgIT Nigeria)</small></center>
+<small>Figure 114. The BudgIT cut app (BudgIT Nigeria)</small>
 
 To successfully engage with users, we have to understand what they want. What does the Nigerian citizen care about? Where do they feel an information gap? How can we make the data relevant to their lives? BudgIT’s immediate target is the average literate Nigerian connected to online forums and social media. In order to compete for the limited attention of users immersed in a wide variety of interests (gaming, reading, socialising) we need to present the data in a brief and concise manner. After broadcasting a snapshot of the data as a Tweet or an infographic, there’s an opportunity for a more sustained engagement with a more interactive experience to give users a bigger picture.
 
@@ -24,7 +24,7 @@ We have engaged over 10,000 Nigerians over the budget and we profile them into t
 ![figs/incoming/06-ZZ.png
 ](http://datajournalismhandbook.org/1.0/en/figs/incoming/06-ZZ.png "Figure 115. The BudgIT cut app sliders showing citizen preferences (BudgIT Nigeria)")
 
-<center><small>Figure 115. The BudgIT cut app sliders showing citizen preferences (BudgIT Nigeria)</small></center>
+<small>Figure 115. The BudgIT cut app sliders showing citizen preferences (BudgIT Nigeria)</small>
 
 With BudgIT, our user engagement is based on the following:
 
@@ -37,3 +37,5 @@ After making expenditure data available on yourbudgit.com, we reach out to citiz
 The project has received coverage in local and foreign media, from [CP-Africa](http://www.cp-africa.com/2012/01/13/budgit-launches-cut-government-waste-application-for-the-2012-nigerian-budget/) to the [BBC](http://www.bbc.co.uk/news/world-africa-16591389). We have undertaken a review of 2002-2011 budget for the security sector for an AP journalist, Yinka Ibukun. Most media organizations are ‘data hogs’ and have requested data from us to use for their reportage. We are planning further collaborations with journalists and news organizations in the coming months.
 
 — *Oluseun Onigbinde, BudgIT Nigeria*
+
+.

@@ -22,7 +22,7 @@ Getting started sometimes means just putting in a visual form the notes you’ve
 ![figs/incoming/06-MM.png
 ](http://datajournalismhandbook.org/1.0/en/figs/incoming/06-MM.png "Figure 84. Farm Subsidies Over Time (Washington Post)")
 
-<center><small>Figure 84. Farm Subsidies Over Time (Washington Post)</small></center>
+<small>Figure 84. Farm Subsidies Over Time (Washington Post)</small>
 
 It shows the portion of farm income associated with subsidies and key events over the past 45 years, and was built over a series of months. Finding data that could be used over time with similar definitions and similar meanings was a challenge. Investigating all of the peaks and troughs helped us keep context in mind as we did the rest of our reporting. It also meant that one chore was pretty much finished before the stories were written.
 
@@ -35,11 +35,11 @@ I used this technique at the Washington Post when we were looking into a tip tha
 ![figs/incoming/06-NN.png
 ](http://datajournalismhandbook.org/1.0/en/figs/incoming/06-NN.png "Figure 85. HHS Grants:sparklines help in story-spotting (Washington Post)")
 
-<center><small>Figure 85. HHS Grants:sparklines help in story-spotting (Washington Post)</small></center>
+<small>Figure 85. HHS Grants:sparklines help in story-spotting (Washington Post)</small>
 
-I created a graph for each program, with the red dots indicating a presidential election year and the green dots indicating a congressional year. The problem: Yes, there was a spike in the six months before the presidential election in several of these programs — the red dots with the peak numbers next to them – but it’s the wrong election year. Instead of George W. Bush’s re-election bid, the peak as consistently for the 2000 presidential election, when Bill Clinton was in the White House and his vice president, Al Gore, was running for the office.
+I created a graph for each program, with the red dots indicating a presidential election year and the green dots indicating a congressional year. The problem: Yes, there was a spike in the six months before the presidential election in several of these programs - the red dots with the peak numbers next to them – but it’s the wrong election year. Instead of George W. Bush’s re-election bid, the peak as consistently for the 2000 presidential election, when Bill Clinton was in the White House and his vice president, Al Gore, was running for the office.
 
-This was really easy to see in a series of graphs rather than a table of numbers, and an interactive form let us check various types of grants, regions and agencies. Maps in small multiples can be a way to show time and place on a static image that’s easy to compare — sometimes even easier than an interactive.
+This was really easy to see in a series of graphs rather than a table of numbers, and an interactive form let us check various types of grants, regions and agencies. Maps in small multiples can be a way to show time and place on a static image that’s easy to compare - sometimes even easier than an interactive.
 
 This example was created with a short program written in PHP, but it’s now much easier to do with Excel 2007 and 2010’s sparklines. Edward Tufte, the visualization expert, invented these “intense, simple, word-like graphics” to convey information in a glance across a large dataset. You now see them everywhere, from the little graphs under stock market quotations to win-loss records in sports.
 
@@ -53,7 +53,7 @@ Keep in mind the research done on visual perception. William Cleveland’s exper
 
 ###Tip 3: Don’t assume
 
-Now that you’ve looked at your data a variety of ways, you’ve probably found records that don’t seem right — you may not understand what they meant in the first place, or there are some outliers that seem like they are typos, or there are trends that seem backwards.
+Now that you’ve looked at your data a variety of ways, you’ve probably found records that don’t seem right - you may not understand what they meant in the first place, or there are some outliers that seem like they are typos, or there are trends that seem backwards.
 
 If you want to publish anything based on your early exploration or in a published visualization, you have to resolve these questions and you can’t make assumptions. They’re either interesting stories or mistakes; interesting challenges to common wisdom or misunderstanding.
 
@@ -94,7 +94,7 @@ The reason is that you can’t write around bad data. For a graphic, you either 
 
 2. **Design for two types of readers**
 
- The graphic — whether it’s a standalone interactive feature or a static visualization that goes with your story — should satisfy two different kinds of readers. It should be easy to understand at a glance, but complex enough to offer something interesting to people who want to go further. If you make it interactive, make sure your readers get something more than a single number or name.<br><br>
+ The graphic - whether it’s a standalone interactive feature or a static visualization that goes with your story - should satisfy two different kinds of readers. It should be easy to understand at a glance, but complex enough to offer something interesting to people who want to go further. If you make it interactive, make sure your readers get something more than a single number or name.<br><br>
 
 3. **Convey one idea – then simplify**
 

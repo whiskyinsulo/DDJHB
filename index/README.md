@@ -4,7 +4,7 @@
 
 ### What's in this chapter?
 
-* [For the Great Unnamed](./for_the_great_unnamed.md)
+* For the Great Unnamed
 * Contributor List
 * What This Book Is (And What It Isn’t)
 * The Handbook At A Glance

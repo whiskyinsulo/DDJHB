@@ -2,7 +2,7 @@
 
 ![figs/incoming/04-01.png](http://datajournalismhandbook.org/1.0/en/figs/incoming/04-01.png "Figure 54. datacatalogs.org (Open Knowledge Foundation)")
 
-<center><small>Figure 54. datacatalogs.org (Open Knowledge Foundation)</small></center>
+<small>Figure 54. datacatalogs.org (Open Knowledge Foundation)</small>
 
 Looking for data on a particular topic or issue? Not sure what exists or where to find it? Don’t know where to start? In this section we look at how to get started with finding public data sources on the web.
 

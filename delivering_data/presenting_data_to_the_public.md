@@ -54,13 +54,13 @@ Since we opened the platform in February 2012 , we’ve received suggestions and
 
 ### Making Data Human
 
-As the discussion around big data bounds into the broader conscious, one important part has been conspicuously missing — the human element. While many of us think about data as disassociated, free-floating numbers, they are in fact measurements of tangible (and very often human) things. Data are tethered to real lives of real people, and when we engage with the numbers, we must consider the real-world systems from which they came.
+As the discussion around big data bounds into the broader conscious, one important part has been conspicuously missing - the human element. While many of us think about data as disassociated, free-floating numbers, they are in fact measurements of tangible (and very often human) things. Data are tethered to real lives of real people, and when we engage with the numbers, we must consider the real-world systems from which they came.
 
 Take, for example, location data, which is being collected right now on hundreds of millions of phones and mobile devices. It’s easy to think of these data (numbers that represent latitude, longitude, and time) as ‘digital exhaust’, but they are in fact distilled moments from our personal narratives. While they may seem dry and clinical when read in a spreadsheet, when we allow people to put their own on a map and replay them, they experience a kind of memory replay that is powerful and human.
 
-At the moment, location data is used by a lot of ‘third parties’ — application developers, big brands, and advertisers. While the ‘second parties’ (telecoms & device managers) own and hold the data, the ‘first party’ in this equation — you — has neither access or control over this information. At the NYTimes R&D group, we have launched a prototype project called OpenPaths (openpaths.cc) to both allow the public to explore their own location data, and to experience the concept of data ownership. After all, people should have control of these numbers that are so closely connected to their own lives and experiences.
+At the moment, location data is used by a lot of ‘third parties’ - application developers, big brands, and advertisers. While the ‘second parties’ (telecoms & device managers) own and hold the data, the ‘first party’ in this equation - you - has neither access or control over this information. At the NYTimes R&D group, we have launched a prototype project called OpenPaths (openpaths.cc) to both allow the public to explore their own location data, and to experience the concept of data ownership. After all, people should have control of these numbers that are so closely connected to their own lives and experiences.
 
-Journalists have a very important role in bringing this inherent humanity of data to light. By doing so, they have the power to change public understanding — both of data and of the systems from which the numbers emerged.
+Journalists have a very important role in bringing this inherent humanity of data to light. By doing so, they have the power to change public understanding - both of data and of the systems from which the numbers emerged.
 
 — *Jer Thorp, Data Artist in Residence: The New York Times R&D Group*
 
@@ -68,7 +68,7 @@ Journalists have a very important role in bringing this inherent humanity of dat
 
 2012 may well be the year of open news. It’s at the heart of our editorial ideology and a key message in our current branding. Amidst all this, it’s clear that we need an open process for data-driven journalism. This process must not only be fuelled by open data, but also be enabled by open tools. By the end of the year, we hope to be able to accompany every visualization we publish with access to both the data behind it and the code that powers it.
 
-Many of the tools used in visualization today are closed source. Others come with restrictive licences that prohibit the use of derivative data. The open source libraries that do exist often solve a single problem well but fail to offer a wider methodology. All together, this makes it difficult for people to build on each others work. It closes conversations rather than them opening up. To this end, we are developing a stack of open tools for interactive storytelling — the Miso Project (@themisoproject).
+Many of the tools used in visualization today are closed source. Others come with restrictive licences that prohibit the use of derivative data. The open source libraries that do exist often solve a single problem well but fail to offer a wider methodology. All together, this makes it difficult for people to build on each others work. It closes conversations rather than them opening up. To this end, we are developing a stack of open tools for interactive storytelling - the Miso Project (@themisoproject).
 
 We are discussing this work with a number of other media organizations. It takes community engagement to realise the full potential of open source software. If we’re successful, it will introduce a fundamentally different dynamic with our readers. Contributions can move beyond commenting to forking our work, fixing bugs or reusing data in unexpected ways.
 
@@ -85,3 +85,5 @@ In the past few years, I’ve worked with a few gigabytes of data for projects o
 Know your scope. There’s a big difference between hacking for fun and engineering for scale and performance. Make sure you’ve partnered with people who have the appropriate skill set for your project. Don’t forget design. Usability, user experience and presentation design can greatly affect the success of your project.
 
 — *Chrys Wu, Hacks/Hackers*
+
+.

@@ -2,7 +2,7 @@
 
 ![](http://datajournalismhandbook.org/1.0/en/figs/incoming/05-AA.png)
 
-<center><small>Figure 70. Prescriptions for gluten-free bread costing Welsh taxpayers £32 (WalesOnline)</small></center>
+<small>Figure 70. Prescriptions for gluten-free bread costing Welsh taxpayers £32 (WalesOnline)</small>
 
 
 A story for Wales On Sunday about how much the Welsh government is spending on prescriptions for gluten-free products, contained the [headline figure](http://bit.ly/walesonline-gluten-free) that it was paying £32 for a loaf of bread. However, this was actually 11 loaves that cost £2.82 each.
@@ -21,3 +21,4 @@ But journalists have a responsibility to check the ridiculous claims even if it 
 
 — *Claire Miller, WalesOnline*
 
+.

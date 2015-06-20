@@ -17,17 +17,17 @@ The [Blekko](http://blekko.com/) search engine offers an unusual amount of insig
 ![figs/incoming/06-PP-01.png
 ](http://datajournalismhandbook.org/1.0/en/figs/incoming/06-PP-01.png "Figure 59. The Blekko search engine (Blekko.com)")
 
-<center><small>Figure 59. The Blekko search engine (Blekko.com)</small></center>
+<small>Figure 59. The Blekko search engine (Blekko.com)</small>
 
 ![figs/incoming/06-PP-02.png
 ](http://datajournalismhandbook.org/1.0/en/figs/incoming/06-PP-02.png "Figure 60. Understanding web popularity: who links to who? The other handy tab is 'Crawl stats', especially the "Cohosted with" section. (Blekko.com)")
 
-<center><small>Figure 60. Understanding web popularity: who links to who? The other handy tab is "Crawl stats", especially the "Cohosted with" section. (Blekko.com)</small></center>
+<small>Figure 60. Understanding web popularity: who links to who? The other handy tab is "Crawl stats", especially the "Cohosted with" section. (Blekko.com)</small>
 
 ![figs/incoming/06-PP-03.png
 ](http://datajournalismhandbook.org/1.0/en/figs/incoming/06-PP-03.png "Figure 61. Spotting web spammers and scammers (Blekko.com)")
 
-<center><small>Figure 61. Spotting web spammers and scammers (Blekko.com)</small></center>
+<small>Figure 61. Spotting web spammers and scammers (Blekko.com)</small>
 
 ###Compete.com
 
@@ -36,12 +36,12 @@ By surveying a cross-section of American consumers, [Compete.com](http://www.com
 ![figs/incoming/06-PP-04.png
 ](http://datajournalismhandbook.org/1.0/en/figs/incoming/06-PP-04.png "Figure 62. Compete.com’s site profile service (Compete.com)")
 
-<center><small>Figure 62. Compete.com’s site profile service (Compete.com)</small></center>
+<small>Figure 62. Compete.com’s site profile service (Compete.com)</small>
 
 ![figs/incoming/06-PP-05.png
 ](http://datajournalismhandbook.org/1.0/en/figs/incoming/06-PP-05.png "Figure 63. What’s in vogue? What’s in demand?: hotspots on the web (Compete.com)")
 
-<center><small>Figure 63. What’s in vogue? What’s in demand?: hotspots on the web (Compete.com)</small></center>
+<small>Figure 63. What’s in vogue? What’s in demand?: hotspots on the web (Compete.com)</small>
 
 ###Google’s Site Search
 
@@ -98,6 +98,8 @@ You can get a clear view into the public’s search habits using [Insights from 
 ![figs/incoming/06-PP-06.png
 ](http://datajournalismhandbook.org/1.0/en/figs/incoming/06-PP-06.png)
 
-<center><small>Figure 64. Google Insights (Google)</small></center>
+<small>Figure 64. Google Insights (Google)</small>
 
 — *Pete Warden, Independent Data Analyst and Developer*
+
+.

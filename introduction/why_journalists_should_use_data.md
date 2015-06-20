@@ -27,20 +27,20 @@ There is one barrier keeping journalists from using this potential: training in 
 Working with data is like stepping into vast, unknown territory. At first look, raw data is puzzling to the eyes and to the mind. Data as such is unwieldy. It is quite hard to shape it correctly for visualization. It needs experienced journalists, who have the stamina to look at often confusing, often boring raw data and “see” the hidden stories in there.
 
 
-<CENTER>![](http://datajournalismhandbook.org/1.0/en/figs/incoming/01-DD.png "Figure 4. European Journalism Centre Survey on Training Needs")
+<CENTER>![](http://datajournalismhandbook.org/1.0/en/figs/incoming/01-DD.png "Figure 4. European Journalism Centre Survey on Training Needs")</center>
 
 <center><small>Figure 4. European Journalism Centre Survey on Training Needs</small></center>
 
 ###The Survey
 
-The European Journalism Centre conducted a survey to find out more about training needs of journalists. We found there is a big willingness to get out of the comfort zone of traditional journalism and to invest time to master the new skills. The results from the survey showed us that journalists see the opportunity, but need a bit of support to cut through the initial problems keeping them from working with data. There is a confidence, that should data journalism get more adopted, the workflows, the tools and the results will improve quite quickly. Pioneers such as the Guardian, the New York Times, the Texas Tribune and Die Zeit continue to raise the bar with their data-driven stories.
+The European Journalism Centre [conducted a survey](http://datadrivenjournalism.net/news_and_analysis/training_data_driven_journalism_mind_the_gaps) to find out more about training needs of journalists. We found there is a big willingness to get out of the comfort zone of traditional journalism and to invest time to master the new skills. The results from the survey showed us that journalists see the opportunity, but need a bit of support to cut through the initial problems keeping them from working with data. There is a confidence, that should data journalism get more adopted, the workflows, the tools and the results will improve quite quickly. Pioneers such as the Guardian, the New York Times, the Texas Tribune and Die Zeit continue to raise the bar with their data-driven stories.
 
 Will data journalism remain the preserve of a small handful of pioneers, or will every news organization soon have its own dedicated data journalism team? We hope this handbook will help more journalists and newsrooms to take advantage of this emerging field.
 
 — *Mirko Lorenz, Deutsche Welle*
 
 
-
+.
 
 
 

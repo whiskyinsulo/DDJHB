@@ -1,6 +1,6 @@
 # What Is Data Journalism?
 
-<center>![](http://datajournalismhandbook.org/1.0/en/figs/incoming/01-01.png "Figure 3. Investigate your MP’s Expenses (The Guardian)")
+<center>![](http://datajournalismhandbook.org/1.0/en/figs/incoming/01-01.png "Figure 3. Investigate your MP’s Expenses (The Guardian)")</center>
 
 <center><small>Figure 3. Investigate your MP’s Expenses (The Guardian)</small></center><br>
 
@@ -23,3 +23,5 @@ Or it can help explain how a story relates to an individual, as the BBC and the 
 Data can be the source of data journalism, or it can be the tool with which the story is told - or it can be both. Like any source, it should be treated with scepticism; and like any tool, we should be conscious of how it can shape and restrict the stories that are created with it.
 
 — *Paul Bradshaw, Birmingham City University*
+
+.

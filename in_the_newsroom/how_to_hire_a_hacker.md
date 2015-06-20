@@ -8,28 +8,28 @@ Fortunately, this means that whether you are looking to hire a hacker or looking
 
 So how do you find them? Says Aron Pilhofer from the New York Times:
 
-You may find that your organzation already has people with all the skills you need, but they are not necessarily already in your newsroom. Wander around, visit the technology and IT departments and you are likely to strike gold. It is also important to appreciate coder culture, come across someone who has a computer that looks like the one here…
+*You may find that your organzation already has people with all the skills you need, but they are not necessarily already in your newsroom. Wander around, visit the technology and IT departments and you are likely to strike gold. It is also important to appreciate coder culture, come across someone who has a computer that looks like the one here…*
 
 ![
 ](http://datajournalismhandbook.org/1.0/en/figs/incoming/02-04.jpg "Figure 21. Badge of honour: hackers/coders are often easy to spot")
 
-<center><small>Figure 21. Badge of honour: hackers/coders are often easy to spot</small></center>
+<small>Figure 21. Badge of honour: hackers/coders are often easy to spot</small>
 
-…then you are probably onto a winner.
+*…then you are probably onto a winner.*
 
 Here are a few more ideas:
 
 ####Post on job websites
-Identify and post to websites aimed at developers who work in different programming languages. For example, the Python Job Board.
+Identify and post to websites aimed at developers who work in different programming languages. For example, the [Python Job Board](http://www.python.org/community/jobs/).
 
 ####Contact relevant mailing lists
-For example, the NICAR-L and Data Driven Journalism mailing lists.
+ For example, the [NICAR-L](http://www.ire.org/resource-center/listservs/subscribe-nicar-l/) and [Data Driven Journalism](http://lists.okfn.org/mailman/listinfo/data-driven-journalism) mailing lists.
 
 ####Contact relevant organizations
-For example, if you want to clean up or scrape data from the web, you could contact an organzation such as Scraperwiki, who have a great address book of trusted and willing coders.
+For example, if you want to clean up or scrape data from the web, you could contact an organzation such as [Scraperwiki](https://scraperwiki.com/), who have a great address book of trusted and willing coders.
 
 ####Join relevant groups/networks
-Look out for initiatives such as Hacks/Hackers which bring journalists and techies together. Hacks/Hackers groups are now springing up all around the world. You could also try posting something to their jobs newsletter.
+Look out for initiatives such as [Hacks/Hackers](http://hackshackers.com/) which bring journalists and techies together. Hacks/Hackers groups are now springing up all around the world. You could also try posting something to their [jobs newsletter](http://hackshackers.com/blog/2012/02/25/subscribe-to-hackshackers-jobs-newsletter/).
 
 ####Local interest communities
 You could try doing a quick search for an area of expertise in your area (e.g. ‘javascript’ + ‘london’). Sites such as Meetup.com can also be a great place to start.
@@ -39,9 +39,9 @@ Whether or not there is prize money available: app and visualization competition
 
 ####Ask a geek
 Geeks hang around with other geeks. Word of mouth is always a good way to find good people to work with.
-
--
-
+<br><br>
+<center>\* \* \* \* \*</center>
+<br><br>
 Once you’ve found a hacker, how do you know if they are any good? We asked Alastair Dant, the Guardian’s Lead Interactive Technologist, for his views on how to spot a good one:
 
 ####They code the full stack
@@ -60,7 +60,9 @@ Building things fast requires mixed teams working towards common goals. Each par
 Technology moves fast. It’s a struggle to keep up with. Having met good developers from all sorts of backgrounds, the most common trait is a willingness to learn new stuff on demand.
 
 — *Lucy Chambers, Open Knowledge Foundation*
-
+<br><br>
+<center>\* \* \* \* \*</center>
+<br><br>
 ##How To Find Your Dream Developer
 
 The productivity difference between a good and a great developer is not linear, it’s exponential. Hiring well is extremely important. Unfortunately, hiring well is also very difficult. It’s hard enough to vet candidates if you are not an experienced technical manager. Add to that the salaries that news organzations can afford to pay, and you’ve got quite a challenge.
@@ -72,3 +74,5 @@ As for where to look, we’ve had great luck finding great hackers in the open g
 Lastly, it’s not enough to just hire developers. You need technical management. A lone-gun developer (especially fresh from journalism school, with no industry experience) is going to make many bad decisions. Even the best programmer, when left to her own devices, will choose technically interesting work over doing what’s most important to your audience. Call this hire a news applications editor, a project manager, whatever. Just like writers, programmers need editors, mentorship and somebody to wrangle them towards making software on deadline.
 
 — *Brian Boyer, Chicago Tribune*
+
+.

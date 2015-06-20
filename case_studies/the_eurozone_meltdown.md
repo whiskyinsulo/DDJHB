@@ -6,13 +6,13 @@ The Page One editors call a meeting to discuss ideas for year-end coverage and a
 
 Is this like 2008 when I was laid off and dark news was incessant? We talked about jobs and work and money every night at dinner nearly forgetting how it might upset my daughter. And weekends, they were the worst. I tried to deny the fear that seemed to have a permanent grip at the back of my neck and the anxiety tightening my rib cage. Is this what was it like right now to be a family in Greece? In Spain?
 
-I turned back and followed Mike Allen, the Page One editor into his office and pitched the idea of telling the crisis through families in the Eurozone by looking first at the data, finding demographic profiles to understand what made up a family and then surfacing that along with pictures and interviews‚ audio of the generations. We’d use beautiful portraiture, the voices — and the data.
+I turned back and followed Mike Allen, the Page One editor into his office and pitched the idea of telling the crisis through families in the Eurozone by looking first at the data, finding demographic profiles to understand what made up a family and then surfacing that along with pictures and interviews‚ audio of the generations. We’d use beautiful portraiture, the voices - and the data.
 
 Back at my desk, I wrote a précis and drew a logo.
 
 ![figs/incoming/03-ZZ-01.png](http://datajournalismhandbook.org/1.0/en/figs/incoming/03-ZZ-01.png "Figure 29. The Eurozone Meltdown:precis (Wall Street Journal)")
 
-<center><small>Figure 29. The Eurozone Meltdown:precis (Wall Street Journal)</small></center>
+<small>Figure 29. The Eurozone Meltdown:precis (Wall Street Journal)</small>
 
 The next three weeks I chased numbers: metrics on marriage, mortality, family size and health spending. I read up on living arrangements and divorce rates, looked at surveys on well-being and savings rates. I browsed national statistics divisions, called the UN population bureau, the IMF, Eurostat and the OECD until I found an economist who had spent his career tracking families. He led me to a scholar on family composition. She pointed me to white papers on my topic.
 
@@ -26,7 +26,7 @@ And shrank. Sometimes I spent hours gathering information only to find out that 
 
 ![figs/incoming/03-ZZ-04.png](http://datajournalismhandbook.org/1.0/en/figs/incoming/03-ZZ-04.png "Figure 30. Judging the usefulness of a dataset can be a very time consuming task (Sarah Slobin)")
 
-<center><small>Figure 30. Judging the usefulness of a dataset can be a very time consuming task (Sarah Slobin)</small></center>
+<small>Figure 30. Judging the usefulness of a dataset can be a very time consuming task (Sarah Slobin)</small>
 
 And then the data grew again as I realized I still had questions, and I didn’t understand the families.
 
@@ -34,7 +34,7 @@ I needed to see it, to shape it. So I made a quick series of graphics in Illustr
 
 ![figs/incoming/03-ZZ-06.png](http://datajournalismhandbook.org/1.0/en/figs/incoming/03-ZZ-06.png "Figure 31. Graphic visualization: making sense of trends and patterns hidden in the datasets (Sarah Slobin)")
 
-<center><small>Figure 31. Graphic visualization: making sense of trends and patterns hidden in the datasets (Sarah Slobin)</small></center>
+<small>Figure 31. Graphic visualization: making sense of trends and patterns hidden in the datasets (Sarah Slobin)</small>
 
 As the charts emerged, so did a cohesive picture of the families.
 
@@ -48,7 +48,7 @@ From here it was a question of waiting to see what story the photos told. Waitin
 
 ![figs/incoming/03-ZZ-07.png](http://datajournalismhandbook.org/1.0/en/figs/incoming/03-ZZ-07.png "Figure 32. Numbers are people: the value of data lies in the individual stories they represent (Wall Street Journal)")
 
-<center><small>Figure 32. Numbers are people: the value of data lies in the individual stories they represent (Wall Street Journal)</small></center>
+<small>Figure 32. Numbers are people: the value of data lies in the individual stories they represent (Wall Street Journal)</small>
 
 In the end, the data were the people, they were the photographs and the stories. They were what was framing each narrative and driving the tension between the countries.
 
@@ -56,6 +56,8 @@ By the time we published, right before the New Year as we were all contemplated 
 
 ![figs/incoming/03-ZZ-09.png](http://datajournalismhandbook.org/1.0/en/figs/incoming/03-ZZ-09.png "Figure 33. Life in the Euro Zone (Wall Street Journal)")
 
-<center><small>Figure 33. Life in the Euro Zone (Wall Street Journal)</small></center>
+<small>Figure 33. Life in the Euro Zone (Wall Street Journal)</small>
 
 — *Sarah Slobin, Wall Street Journal*
+
+.

@@ -3,7 +3,7 @@
 ![figs/incoming/02-ZZ.jpg
 ](http://datajournalismhandbook.org/1.0/en/figs/incoming/02-ZZ.jpg "Figure 17. The Guardian Datablog production process visualized (The Guardian)")
 
-<center><small>Figure 17. The Guardian Datablog production process visualized (The Guardian)</small></center>
+<small>Figure 17. The Guardian Datablog production process visualized (The Guardian)</small>
 
 When we launched the Datablog, we had no idea who would be interested in raw data, statistics and visualizations. As someone pretty senior in my office said: “why would anyone want that?”.
 
@@ -54,3 +54,5 @@ NH wanted his data published because otherwise the facts would be left to untrai
 I can’t think of a better rationale now for what we’re trying to do. Now what once was a back page story can now make front page news.
 
 — *Simon Rogers, The Guardian*
+
+.

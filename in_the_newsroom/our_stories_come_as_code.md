@@ -2,7 +2,7 @@
 
 ![](http://datajournalismhandbook.org/1.0/en/figs/incoming/02-TT.png "Figure 25. Airport noise map (Taz.de)")
 
-<center><small>Figure 25. Airport noise map (Taz.de)</small></center>
+<small>Figure 25. Airport noise map (Taz.de)</small>
 
 [OpenDataCity](http://www.opendatacity.de/) was founded towards the end of 2010. There was pretty much nothing that you could call data journalism happening in Germany at this time.
 
@@ -25,7 +25,9 @@ When undertaking a data project, you will often create bits of code which can be
 ###Data journalism pays for itself
 Data driven projects are cheaper than traditional marketing campaigns. Online news outlets will often invest in things like Search Engine Optimization (SEO) and Search Engine Marketing (SEM). A executed data project will normally generate a lot of clicks and buzz, and may go viral. Publishers will typically pay less for this then trying to generate the same attention by clicks and links through SEM.
 
-.
+<br><br>
+<center>\* \* \* \* \*</center>
+<br><br>
 
 Our work is not very different from other new media agencies: providing applications or services for news outlets. But maybe we differ in that we think of ourselves first and foremost as journalists. In our eyes the products we deliver are articles or stories, albeit ones which are provided not in words and pictures, audio or video, but in code. When we are talking about data journalism we have to talk about technology, software, devices and how to tell a story with them.
 
@@ -40,3 +42,5 @@ There is still a lot to learn about and to experiment with. But luckily there is
 We think that data journalism is here to stay. In a few years data journalism workflows will be quite naturally be embedded in newsrooms, because news websites will have to change. The amount of data that is publicly available will keep on increasing. But luckily new technologies will continue to enable us to find new ways of telling stories. Some of the stories will be driven by data and many of applications and services will have a journalistic character. The interesting question is: which strategy are newsrooms going to develop to foster this process? Are they going to build up teams of data journalists integrated into their newsroom? Will there be R&D departments, a bit like in-house startups? Or will parts of the work be outsourced to specialized companies? We are still right at the beginning and only time will tell.
 
 — *Lorenz Matzat, OpenDataCity*
+
+.

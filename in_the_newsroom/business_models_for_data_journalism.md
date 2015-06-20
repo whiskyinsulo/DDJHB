@@ -37,3 +37,6 @@ This might not work the first time. But it will over time. One very hopeful indi
 Becoming proficient in all things data - whether as a generalist or as a specialist focused on one aspect of the data food chain - provides a valuable perspective for people who believe in journalism. One well-known publisher in Germany recently said in an interview: “There is this new group who call themselves data journalists. And they are not willing to work for peanuts anymore”.
 
 — *Mirko Lorenz, Deutsche Welle*
+
+
+.

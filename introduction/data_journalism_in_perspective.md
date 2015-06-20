@@ -28,13 +28,13 @@ As we might expect, the practise of using data to improve reportage goes back as
 
 ![figs/incoming/01-LL.jpg](http://datajournalismhandbook.org/1.0/en/figs/incoming/01-LL.jpg "Figure 11. Data Journalism in the Guardian in 1821 (The Guardian)")
 
-<center><small>Figure 11. Data Journalism in the Guardian in 1821 (The Guardian)</small></center>
+<small>Figure 11. Data Journalism in the Guardian in 1821 (The Guardian)</small>
 
 Another early example in Europe is Florence Nightingale and her key report, ‘[Mortality of the British Army](http://archive.org/stream/mortalityofbriti00lond#page/n3/mode/2up)’, published in 1858. In her report to the parliament she used graphics to advocate improvements in health services for the British army. The most famous is her ‘coxcomb’, a spiral of sections, each representing deaths per month, which highlighted that the vast majority of deaths were from preventable diseases rather than bullets.
 
 ![](http://datajournalismhandbook.org/1.0/en/figs/incoming/01-MM.jpg "Figure 12. Mortality of the British Army by Florence Nightingale (Image from Wikipedia)")
 
-<center><small>Figure 12. Mortality of the British Army by Florence Nightingale (Image from Wikipedia)</small></center>
+<small>Figure 12. Mortality of the British Army by Florence Nightingale (Image from Wikipedia)</small>
 
 ###Data journalism and Computer-Assisted Reporting
 
@@ -55,3 +55,5 @@ By enabling anyone to drill down into data sources and find information that is 
 At the moment the nascent community of people who called themselves data journalists is largely distinct from the more mature CAR community. Hopefully in the future we will see stronger ties between these two communities, in much the same way that we see new NGOs and citizen media organizations like ProPublica and the Bureau of Investigative Journalism work hand in hand with traditional news media on investigations. While the data journalism community might have more innovative ways delivering data and presenting stories, the deeply analytical and critical approach of the CAR community is something that data journalism could certainly learn from.
 
 — *Liliana Bounegru, European Journalism Centre*
+
+.

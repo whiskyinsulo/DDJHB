@@ -1,7 +1,8 @@
 # How the Datablog Used Crowdsourcing to Cover Olympic Ticketing
 
 ![figs/incoming/04-FF.png](http://datajournalismhandbook.org/1.0/en/figs/incoming/04-FF.png "Figure 66. How many Olympic tickets did you get?: the readers' results (The Guardian)")
-<center><small>Figure 66. How many Olympic tickets did you get?: the readers' results (The Guardian)</small></center>
+
+<small>Figure 66. How many Olympic tickets did you get?: the readers' results (The Guardian)</small>
 
 I think the crowdsourcing project that got the biggest response was a [piece on the Olympic ticket ballot](http://www.guardian.co.uk/sport/london-2012-olympics-blog/2011/jun/03/london-2012-olympic-ticket-crowdsource-result). Thousands of people in the UK tried to get tickets for the 2012 Olympics and there was a lot of fury that people hadn’t got them. People had ordered hundreds of pounds worth and were told that they’d get nothing. But no one really knew if it was just some people complaining quite loudly while actually most people were happy. So we tried to work out a way to find out.
 
@@ -34,3 +35,5 @@ We decided to use Google Docs because it gives complete control over the results
 In terms of advice for data journalists who want to use crowdsourcing: you have to have very specific things you want to know. Ask things that get multiple choice responses as much as possible. Try to get some basic demographics of who you are talking to so you can see if your sample might be biased. If you are asking for amounts and things like this, try in the guidance to specify that it’s in digits, that they have to use a specific currency and things like that. A lot won’t, but the more you hold their hand through, the better. And always, always add a comment box because a lot of people will fill out the other things but what they really want is to give you their opinion on the story. Especially on a consumer story or an outrage.
 
 — *Marianne Bouchart, Data Journalism Blog, interviewing James Ball, the Guardian*
+
+.

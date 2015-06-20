@@ -21,3 +21,5 @@ As the funding was outside the rules of Commission expenditure, it was a quick w
 You never know what you might find in a dataset, so just have a look. You have to be quite bold and this approach generally works best when trying to identify obvious characteristics that will show up through filtering (the biggest, extremes, most common etc.).
 
 — *Caelainn Barr, Citywire*
+
+.

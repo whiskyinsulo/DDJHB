@@ -3,7 +3,7 @@
 ![figs/incoming/02-00.jpg
 ](http://datajournalismhandbook.org/1.0/en/figs/incoming/02-00.jpg "Figure 16. The Chicago Tribune news applications team (Photo by Brian Boyer)")
 
-<center><small>Figure 16. The Chicago Tribune news applications team (Photo by Brian Boyer)</small></center>
+<small>Figure 16. The Chicago Tribune news applications team (Photo by Brian Boyer)</small>
 
 The news applications team at the Chicago Tribune is a band of happy hackers embedded in the newsroom. We work closely with editors and reporters to help: (1) research and report stories, (2) illustrate stories online and (3) build evergreen web resources for the fine people of Chicagoland.
 
@@ -24,3 +24,5 @@ Before, we linked to the app from the written story, which didn’t result in mu
 We love page views, and we love the accolades of our peers, but that’s weak sauce. The motivation should always be impact - on people’s lives, on the law, on holding politicians to account, and so on. The written piece will speak to the trend and humanise it with a few anecdotes. But what’s the reader to do when they’ve finished the story? Is their family safe? Are their children being educated properly? Our work sings when it helps a reader find his or her own story in the data. Examples of impactful, personalised work that we’ve done include our [Nursing Home Safety Reports](http://nursinghomes.apps.chicagotribune.com/) and [School Report Card](http://schools.chicagotribune.com/) apps.
 
 — *Brian Boyer, Chicago Tribune*
+
+.

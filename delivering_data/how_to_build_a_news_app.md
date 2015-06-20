@@ -2,7 +2,7 @@
 
 ![)](http://datajournalismhandbook.org/1.0/en/figs/incoming/06-AA.png "Figure 82. Dialysis Facility Tracker (ProPublica)")
 
-<center><small>Figure 82. Dialysis Facility Tracker (ProPublica)</small></center>
+<small>Figure 82. Dialysis Facility Tracker (ProPublica)</small>
 
 News applications are windows into the data behind a story. They might be searchable databases, sleek visualizations or something else altogether. But no matter what form they take, news apps encourage readers to interact with data in a context that is meaningful to them: looking up crime trends in their area, checking the safety records of their local doctor, or searching political contributions to their candidate of choice.
 
@@ -49,3 +49,5 @@ News application development has come a long way in a very short time. News Apps
 News Apps 2.0, where the industry is headed, is about combining the storytelling and public service strengths of journalism with the product development discipline and expertise of the technology world. The result, no doubt, will be an explosion of innovation around ways to make data relevant, interesting and especially useful to our audience – and at the same time hopefully helping journalism do the same.
 
 — *Chase Davis, Center for Investigative Reporting*
+
+.

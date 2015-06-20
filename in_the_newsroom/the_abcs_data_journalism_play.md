@@ -33,7 +33,7 @@ On the 24th of November 2011 the ABC’s multi-platform project and ABC News Onl
 ![figs/incoming/02-01.png
 ](http://datajournalismhandbook.org/1.0/en/figs/incoming/02-01.png "Figure 13. Coal Seam Gas by the Numbers (ABC News Online)")
 
-<center><small>Figure 13. Coal Seam Gas by the Numbers (ABC News Online)</small></center>
+<small>Figure 13. Coal Seam Gas by the Numbers (ABC News Online)</small>
 
 It was five pages of interactive maps, data visualizations and text.
 
@@ -44,7 +44,7 @@ The jewel was an interactive map showing coal seam gas wells and leases in Austr
 ![figs/incoming/02-02.png
 ](http://datajournalismhandbook.org/1.0/en/figs/incoming/02-02.png "Figure 14. Interactive map of gas wells and leases in Australia (ABC News Online)")
 
-<center><small>Figure 14. Interactive map of gas wells and leases in Australia (ABC News Online)</small></center>
+<small>Figure 14. Interactive map of gas wells and leases in Australia (ABC News Online)</small>
 
 We had data visualizations which specifically addressed this issue of waste salt and water production that would be produced depending on the scenario that emerged.
 
@@ -90,3 +90,5 @@ Ipso facto Data journalism is interdisciplinary. Data journalism teams are made 
 We live in a fractured, distrustful body politic. The business model that formerly delivered professional independent journalism – imperfect as it is - is on the verge of collapse. We ought to ask ourselves - as many now are - what might the world look like without a viable fourth estate? The American journalist and intellectual Walter Lippman remarked in the 1920’s that “it is admitted that a sound public opinion cannot exist without access to news”. That statement is no less true now. In the 21st century everyone’s hanging out in the blogosphere. It’s hard to tell the spinners, liars, dissemblers and vested interest groups from the professional journalists. Pretty much any site or source can be made to look credible, slick and honest. The trustworthy mastheads are dying in the ditch. And in this new space of junk journalism, hyperlinks can endlessly take the reader to other more useless but brilliant looking sources that keep hyperlinking back into the digital hall of mirrors. The technical term for this is: bullshit baffles brains. In the digital space everyone’s a storyteller now - right? Wrong. If professional journalism – and by that I mean those who embrace ethical, balanced, courageous truth seeking storytelling – is to survive then the craft must reassert itself in the digital space. Data journalism is just another tool by which we will navigate the digital space. It’s where we will map, flip, sort, filter, extract and see the story amidst all those 0’s and 1’s. In the future we’ll be working side by side with the hackers, the developers the designers and the coders. It’s a transition that requires serious capacity building. We need news managers who “get” the digital/journalism connection to start investing in the build.
 
 — *Wendy Carlisle, Australian Broadcasting Corporation*
+
+.

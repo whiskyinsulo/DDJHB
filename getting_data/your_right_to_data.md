@@ -3,7 +3,7 @@
 ![figs/incoming/04-AA.png
 ](http://datajournalismhandbook.org/1.0/en/figs/incoming/04-AA.png "Figure 55. What Do They Know? (My Society)")
 
-<center><small>Figure 55. What Do They Know? (My Society)</small></center>
+<small>Figure 55. What Do They Know? (My Society)</small>
 
 Before you make a Freedom of Information (FOI) request you should check to see if the data you are looking for is already available - or has already been requested by others. The previous chapter has some suggestions for where you might look. If you’ve looked around and still can’t get hold of the data you need, then you may wish to file a formal request. Here are some tips that may help to make your request more effective.
 
@@ -19,7 +19,9 @@ Before you start submitting a request, check the rules about fees for either sub
 
 Find out what your rights are before you begin, so you know where you stand and what the public authorities are and are not obliged to do. For example, most freedom of information laws provide a time limit for authorities to reply to you. Globally, the range in most laws is from a few days to one month. You make sure that you know what this is before you set out, and make a note of when you submit your request.
 
-.
+<br><br>
+<center>\* \* \* \* \*</center>
+<br><br>
 
 Governments are not obliged to process data for you, but should give you all the data they have, and if it is data that they should have according to perform their legal competencies, they should certainly produce it for you.
 
@@ -70,7 +72,9 @@ Make your request in writing and save a copy or a record of it so that in the fu
 
 Speed up answers by making it public that you submitted a request: If you write or broadcast a story that the request has been submitted, it can put pressure on the public institution to process and respond to the request. You can update the information as and when you get a response to the request - or if the deadline passes and there is no response you can make this into a news story as well. Doing this has the additional benefit of educating members of the public about the right of access to information and how it works in practice.
 
-.
+<br><br>
+<center>\* \* \* \* \*</center>
+<br><br>
 
 There are also several excellent services which you can use to make your request, and any subsequent responses, publicly viewable on the web, such as [What Do They Know?](http://www.whatdotheyknow.com/) for UK public bodies, [Frag den Staat](https://fragdenstaat.de/) for German public bodies, and [Ask the EU](http://www.asktheeu.org/) for EU institutions. The [Alaveteli](http://www.alaveteli.org/) project is helping to bring similar services to dozens of countries around the world.
 
@@ -87,3 +91,5 @@ If you want to analyze, explore or manipulate data using a computer then you sho
 You may wish to find out about NGOs, private companies, religious organizations and/or other organizations which are not required to release documents under FOI laws. However, it is possible to find information about them by asking public bodies which are covered by FOI laws. For example, you could ask a government department or ministry if they have funded or dealt with a specific private company or NGO and request supporting documents. If you need further help with making your FOI request, you can also consult the [Legal Leaks toolkit for journalists](http://www.legalleaks.info/toolkit.html).
 
 — *This section was written by Helen Darbishire (Access Info Europe), Djordje Padejski (Knight Journalism Fellow, Stanford University), Martin Rosenbaum (BBC), and Fabrizio Scrollini (London School of Economics and Political Science).*
+
+.

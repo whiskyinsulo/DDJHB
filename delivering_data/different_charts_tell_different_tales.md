@@ -6,17 +6,20 @@ Some of the most famous charts and graphs came out of the need to better explain
 
 ![figs/incoming/06-TT-01.gif
 ](http://datajournalismhandbook.org/1.0/en/figs/incoming/06-TT-01.gif "Figure 95. An early bar chart (William Playfair)")
-<center><small>Figure 95. An early bar chart (William Playfair)</small></center>
+
+<small>Figure 95. An early bar chart (William Playfair)</small>
 
 He then went on to popularise the dreaded pie chart in his 1801 book Statistical Breviary. The need for these new forms of charts and graphs came out of commerce, but as time passed others appeared which were used to save lives. In 1854 John Snow created his now famous ‘Cholera Map of London’, by adding a small black bar over each address where an incident was reported. Over time, an obvious density of the outbreak could be seen and action taken to curb the problem.
 
 ![figs/incoming/06-TT-02.jpg](http://datajournalismhandbook.org/1.0/en/figs/incoming/06-TT-02.jpg "Figure 96. Cholera Map of London (John Snow)")
-<center><small>Figure 96. Cholera Map of London (John Snow)</small></center>
+
+<small>Figure 96. Cholera Map of London (John Snow)</small>
 
 As time passed, practitioners of these new chart and graphs got more and more bold and experimented further, pushing the medium toward what we know today. André-Michel Guerry was the first to publish the idea of a map where individual regions where colours different based on some variable. In 1829 he created the first Choropleth by taking regions in France and shading them to represent crime levels. Today we see such maps used to show political polling regions, who voted for whom, wealth distribution and may other geographically linked variables. It seems like such a simple idea, but even today, it is difficult to master and understand if not used wisely.
 
 ![figs/incoming/06-TT-03.jpg](http://datajournalismhandbook.org/1.0/en/figs/incoming/06-TT-03.jpg "Figure 97. Chloropleth Map of France showing crime levels (André-Michel Guerry)")
-<center><small>Figure 97. Chloropleth Map of France showing crime levels (André-Michel Guerry)</small></center>
+
+<small>Figure 97. Chloropleth Map of France showing crime levels (André-Michel Guerry)</small>
 
 There are many tools a good journalist needs to understand and have in their toolbox for constructing visualizations. Rather than jump right in at the deep end, an excellent grounding in charts and graphs is important. Everything you create needs to originate from a series of atomic charts and graphs. If you can master the basics, then you can move onto constructing more complex visualizations which are made-up from these basic units.
 
@@ -24,23 +27,26 @@ Two of the most basic chart types are bar charts and line charts. While they are
 
 ![figs/incoming/06-TT-04.png](http://datajournalismhandbook.org/1.0/en/figs/incoming/06-TT-04.png "Figure 98. A simple bar chart: useful to represent discrete information")
 
-<center><small>Figure 98. A simple bar chart: useful to represent discrete information</small></center>
+<small>Figure 98. A simple bar chart: useful to represent discrete information</small>
 
 Let’s look into why this should be bars rather than a line graph. Line graphs are idea for continuous data. With our sales figures it is the sum of the month, not continuous. As a bar, we know that in January the company made $100 and in February it made $120. If we made this a line graph, it would still represent $100 and $120 on the first of each month, but with the line graph we estimate that on the 15th it looks as it the company made $110. Which isn’t true. Bars are used for discrete units of measurement, whereas lines are used when it is a continuous value, such as temperature.
 
 ![figs/incoming/06-TT-05.png](http://datajournalismhandbook.org/1.0/en/figs/incoming/06-TT-05.png "Figure 99. Simple line graphs: useful to represent continuous information")
-<center><small>Figure 99. Simple line graphs: useful to represent continuous information</small></center>
+
+<small>Figure 99. Simple line graphs: useful to represent continuous information</small>
 
 We can see that at 8:00 the temperature was 20C and at 9:00 it was 22C. If we look at the line to guess the temperature at 8:30 we’d say 21C, which is a correct estimate since temperature is continuous and every point isn’t a sum of other values, it represents the exact value at that moment or an estimate between two exact measurements.
 
 Both the bar and line have a stacked variation. This is an excellent story telling tool that can work in different ways. Let’s take for example a company that has 3 locations.
 ![figs/incoming/06-TT-06.png](http://datajournalismhandbook.org/1.0/en/figs/incoming/06-TT-06.png "Figure 100. A grouped bar graph")
-<center><small>Figure 100. A grouped bar graph</small></center>
+
+<small>Figure 100. A grouped bar graph</small>
 
 For each month we have 3 bars, one for each of the shops, for 36 total for the year. When we place them next to each other, we can quickly see which month which store was earning the most. This is one interesting and valid story, but there is another hidden within the same data. If we stack the bars, so we only have one for each month, we now lose the ability to easily see which store is the biggest earner, but now we can see which months the company as a whole does the best business.
 
 ![figs/incoming/06-TT-07.png](http://datajournalismhandbook.org/1.0/en/figs/incoming/06-TT-07.png "Figure 101. A stacked bar graph")
-<center><small>Figure 101. A stacked bar graph</small></center>
+
+<small>Figure 101. A stacked bar graph</small>
 
 Both of these are valid displays of the same information, but they are two different stories using the same starting data. As a journalist, the most important aspect of working with the data is that you first choose the story you are interested in telling. Is if which month is the best for business or is it which store is the flagship? This is just a simple example, but it is really the whole focus of data journalism, asking the right question before getting too far. The story will guide the choose of visualization.
 
@@ -57,3 +63,5 @@ Once you have mastered the basic type of charts and graphs can you then begin to
 It is ok to not use every piece of data in your story. You shouldn’t have to ask permission to be concise, it should be the rule.
 
 — *Brian Suda, (optional.is)*
+
+.

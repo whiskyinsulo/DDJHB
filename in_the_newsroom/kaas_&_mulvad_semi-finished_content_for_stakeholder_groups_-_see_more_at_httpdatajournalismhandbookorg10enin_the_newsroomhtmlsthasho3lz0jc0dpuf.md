@@ -3,7 +3,7 @@
 ![figs/incoming/02-MM.png
 ](http://datajournalismhandbook.org/1.0/en/figs/incoming/02-MM.png "Figure 26. Stakeholder media companies (Fagblaget3F)")
 
-<center><small>igure 26. Stakeholder media companies (Fagblaget3F)</small></center>
+<small>igure 26. Stakeholder media companies (Fagblaget3F)</small>
 
 Stakeholder media is an emerging sector, largely overlooked by media theorists, which has the potential to have a tremendous impact either through online networks or by providing content to news media. It can be defined as (usually online) media that is controlled by organzational or institutional stakeholders, and which is used to advance certain interests and communities. NGOs typically create such media; so do consumer groups, professional associations, labour unions, etc. The key limit on its ability to influence public opinion or other stakeholders is often that it lacks capacity to undertake discovery of important information, even more so than the downsized news media. Kaas og Mulvad, a for-profit Danish corporation, is one of the first investigative media enterprises that provides expert capacity to these stakeholder outlets.
 
@@ -32,7 +32,9 @@ Type in your last name and look at the distribution of this name around differen
 ###Smiley Map for Ekstra Bladet
 Every day we extract all the bad food inspections and map all the latest on a map for the Danish tabloid Ekstra Bladet (see half way down the website for the map).
 
-.
+<br><br>
+<center>\* \* \* \* \*</center>
+<br><br>
 
 Kass og Mulvad are not the first journalists to work with stakeholder media. Greenpeace, for example, routinely engages journalists as collaborators for its reports. But we know of no other firm whose offerings to stakeholder media are data-driven; it is much more typical for journalists to work with NGOs as reporters, editors or writers. The current focus in computer-assisted news media is on search and discovery (think of Wikileaks); here again Kaas og Mulvad innovate, by focusing on data analysis. Their approach requires not only programming skills, but also understanding of what kind of information can make a story with impact. It can safely be said that anyone wishing to imitate their service would probably have to acquire those two skill sets through partnership, because individuals rarely possess both.
 
@@ -56,3 +58,5 @@ Turnover in 2009 was approximately 2.5 million Danish kroner, or €336,000. The
 * From a revenue standpoint, a single product or service is not enough. Successful watchdog enterprises would do better to take a portfolio approach, in which consulting, teaching, speaking and other services bring in extra revenue, support the watchdog brand.
 
 — *Edited excerpt from Mark Lee Hunter and Luk N. Van Wassenhove, “Disruptive News Technologies: Stakeholder Media and the Future of Watchdog Journalism Business Models”. INSEAD Working Paper, 2010*
+
+.

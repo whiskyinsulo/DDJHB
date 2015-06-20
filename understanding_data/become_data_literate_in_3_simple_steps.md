@@ -3,7 +3,7 @@
 ![figs/incoming/05-MM.jpg
 ](http://datajournalismhandbook.org/1.0/en/figs/incoming/05-MM.jpg "Figure 68. Digging into data (JDHancock)")
 
-<center><small>Figure 68. Digging into data (JDHancock)</small></center>
+<small>Figure 68. Digging into data (JDHancock)</small>
 
 Just as literacy refers to “the ability to read for knowledge, write coherently and think critically about printed material” data-literacy is the ability to consume for knowledge, produce coherently and think critically about data. Data literacy includes statistical literacy but also understanding how to work with large data sets, how they were produced, how to connect various data sets and how to interpret them.
 
@@ -15,7 +15,7 @@ A reporter certainly does not need a degree in statistics to become more efficie
 
 Even if you lack any knowledge of math or stats, you can easily become a seasoned data-journalist by asking 3 very simple questions.
 
-##1. How was the data collected?
+###1. How was the data collected?
 
 *Amazing GDP growth*
 
@@ -37,7 +37,7 @@ For police data, sociologists often carry out victimisation studies, in which th
 
 Other tests let you assess precisely the credibility of the data, such as Benford’s law, but none will replace your own critical thinking.
 
-##2. What’s in there to learn?
+###2. What’s in there to learn?
 
 *Risk of Multiple Sclerosis doubles when working at night*
 
@@ -55,7 +55,7 @@ When writing about an average, always think “an average of what?” Is the ref
 
 Always take the distribution and base rate into account. Checking for the mean and median, as well as mode (the most frequent value in the distribution) helps you gain insights in the data. Knowing the order of magnitude makes contextualization easier, as in the MS example. Finally, reporting in natural frequencies (1 in 100) is way easier for readers to understand that using percentage (1%).
 
-##3. How reliable is the information?
+###3. How reliable is the information?
 
 *The sample size problem*
 

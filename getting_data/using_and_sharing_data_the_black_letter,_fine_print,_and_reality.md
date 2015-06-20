@@ -15,7 +15,7 @@ If you’re familiar with how copyright restricts creative works — if the 
 Obviously such restrictions aren’t the best way to grow an ecosystem of data driven journalism (nor are they good for society at large – social scientists and others told the EU they wouldn’t be before sui generis came about, and studies since have shown them to be right). Fortunately, as a publisher of a database, you can remove such restrictions from the database (assuming it doesn’t have elements that you don’t have permission to grant further permissions around), essentially by granting permission in advance. You can do this by releasing your database under a public license or public domain dedication — just as many programmers release their code under a free and open source license, so that others can build on their code (as data driven journalism often involves code, not just data, of course you should release your code too, so that your data collection and analysis are reproducible). There are lots of reasons for opening up your data. For example, your audience might create new visualizations or applications with it that you can link to — as the Guardian do with their data visualization Flickr pool. Your datasets can be combined with other datasets to give you and your readers greater insight into a topic. Things that others do with your data might give you leads for new stories, or ideas for stories, or ideas for other data driven projects. And they will certainly bring you kudos.
 
 ![figs/incoming/04-GG.jpg](http://datajournalismhandbook.org/1.0/en/figs/incoming/04-GG.jpg "Figure 67. Open Data badges (Open Knowledge Foundation)")
-<center><small>Figure 67. Open Data badges (Open Knowledge Foundation)</small></center>
+<small>Figure 67. Open Data badges (Open Knowledge Foundation)</small>
 
 When one realises that releasing works under public licenses is a necessity, the question becomes: which license? That tricky question will frequently be answered by the project or community whose work you’re building on, or that you hope to contribute your work to – use the license they use. If you need to dig deeper, start from the set of licenses that are free and open – meaning that anyone has permission, for any use (attribution and sharing alike might be required). What the Free Software Definition and Open Source Definition do for software, the [Open Knowledge Definition](http://opendefinition.org/) does for all other knowledge, including databases: define what makes a work open, and what open licenses allow users to do.
 
@@ -34,3 +34,5 @@ Sharing with the world might bring to mind that privacy and other considerations
 Good luck! But in all probability you’ll need more of it for other areas of your project than you’ll need for managing the (low) legal risks.
 
 — *Mike Linksvayer, Creative Commons*
+
+.

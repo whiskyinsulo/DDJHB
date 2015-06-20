@@ -2,7 +2,7 @@
 
 ![figs/incoming/02-RR.png](http://datajournalismhandbook.org/1.0/en/figs/incoming/02-RR.png "Figure 24. The Investigative Dashboard (OCCRP)")
 
-<center><small>Figure 24. The Investigative Dashboard (OCCRP)</small></center>
+<small>Figure 24. The Investigative Dashboard (OCCRP)</small>
 
 Investigative journalists and citizens interested in uncovering organised crime and corruption that affect the lives of billions worldwide gain, with each passing day, unprecedented access to information. Huge volumes of data are made available online by governments and other organzations and it seems that much needed information is more and more in everyone’s grasp. However, at the same time, corrupt officials in governments and organised crime groups are doing their best to conceal information in order to hide their misdeeds. They make efforts to keep people in the dark while conducting ugly deals that cause disruptions at all society levels and lead to conflict, famine or other types of crisis.
 
@@ -22,7 +22,9 @@ Investigative journalists all over the world are grouped in organzations such as
 
 Software helps investigative journalists access and process information. Various types of software assist the investigator in cutting through the noise, in digging and making sense of large volumes of data and in finding the right documents needed to break the story. There are many ready-made software programs that can be used as tools for analyzing, gathering or interpreting information and, more important, investigative journalists need to be aware that there are scores of computer programmers ready to help if asked. These programmers or hackers know how to obtain and handle information and they can assist a big deal with the investigative effort. These programmers, some of them members of global open data movements, can become invaluable allies in the fight against crime and corruption. They can assist journalists in gathering and in analyzing information.
 
-.
+<br><br>
+<center>\* \* \* \* \*</center>
+<br><br>
 
 A good example of an interface between programmers and citizens is [ScraperWiki](https://scraperwiki.com/), a site where journalists can ask programmers for help with extracting data from websites. Investigative Dashboard [maintains a list](http://www.investigativedashboard.org/2011/02/software-resources/) of ready-made tools that could help to journalist gather, shape and analyze data can be found here.
 
@@ -37,3 +39,5 @@ Another thing to be kept in mind is that information that doesn’t seem very va
 Efficient investigative reporting is the result of cooperation between investigative journalists, programmers and others who want to use data to contribute to create a cleaner, fairer and more just global society.
 
 — *Paul Radu, Organized Crime and Corruption Reporting Project*
+
+.

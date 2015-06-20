@@ -3,7 +3,8 @@
 Crowdsourcing, [according to Wikipedia](http://en.wikipedia.org/wiki/Crowdsourcing), is "a distributed problem-solving and production process that involves outsourcing tasks to a network of people, also known as the crowd". The following is from an interview with Simon Rogers on how the Datablog used crowdsourcing to cover the MPs expenses scandal, drug use, and the Sarah Palin papers:
 
 ![figs/incoming/04-EE.png](http://datajournalismhandbook.org/1.0/en/figs/incoming/04-EE.png "Figure 65. A redacted copy of Stephen Pound’s incidental expenses (The Guardian)")
-<center><small>Figure 65. A redacted copy of Stephen Pound’s incidental expenses (The Guardian)</small></center>
+
+<small>Figure 65. A redacted copy of Stephen Pound’s incidental expenses (The Guardian)</small>
 
 Sometimes you will get a ton of files, statistics, or reports which it is impossible for one person to go through. Also you may get hold of material that is inaccessible or in a bad format and you aren’t able to do much with it. This is where crowdsourcing can help.
 
@@ -26,3 +27,5 @@ Regarding the reliability of data, I think the approach that [Old Weather](http:
 If I were to give advice to aspiring data journalists who want to use crowdsourcing to collecting data, I would encourage them do this on something that people really care about, and will continue to care about when it stops making front page headlines. Also if you make something more like a game this can really help to engage people. When we did the expenses story a second time it was much more like a game with individual tasks for people to do. It really helped to give people specific tasks. That made a big difference because I think if you just present people with the mountain of information to go through and say ‘go through this’ it can make for hard and rather unrewarding work. So I think making it fun is really important.
 
 — *Marianne Bouchart, Data Journalism Blog, interviewing Simon Rogers, the Guardian*
+
+.

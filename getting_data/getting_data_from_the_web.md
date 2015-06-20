@@ -1,6 +1,6 @@
 # Getting Data from the Web
 
-You’ve tried everything else, and you haven’t managed to get your hands on the data you want. You’ve found the data on the web, but, alas — no download options are available and copy-paste has failed you. Fear not, there may still be a way to get the data out. For example you can:
+You’ve tried everything else, and you haven’t managed to get your hands on the data you want. You’ve found the data on the web, but, alas - no download options are available and copy-paste has failed you. Fear not, there may still be a way to get the data out. For example you can:
 
 * Get data from web-based APIs, such as interfaces provided by online databases and many modern web applications (including Twitter, Facebook and many others). This is a fantastic way to access government or commercial data, as well as data from social media sites.
 * Extract data from PDFs. This is very difficult, as PDF is a language for printers and does not retain much information on the structure of the data that is displayed within a document. Extracting information from PDFs is beyond the scope of this book, but there are some tools and tutorials that may help you do it.
@@ -18,7 +18,7 @@ The goal for most of these methods is to get access to machine-readable data. Ma
 
 Everyone has done this: you go to a web site, see an interesting table and try to copy it over to Excel so you can add some numbers up or store it for later. Yet this often does not really work, or the information you want is spread across a large number of web sites. Copying by hand can quickly become very tedious, so it makes sense to use a bit of code to do it.
 
-The advantage of scraping is that you can do it with virtually any web site — from weather forecasts to government spending, even if that site does not have an API for raw data access.
+The advantage of scraping is that you can do it with virtually any web site - from weather forecasts to government spending, even if that site does not have an API for raw data access.
 
 ###What you can and cannot scrape
 
@@ -30,7 +30,7 @@ There are, of course, limits to what can be scraped. Some factors that make it h
 * A lack of complete item listings and possibilities for wildcard search.
 * Blocking of bulk access by the server administrators.
 
-Another set of limitations are legal barriers: some countries recognize database rights, which may limit your right to re-use information that has been published online. Sometimes, you can choose to ignore the license and do it anyway — depending on your jurisdiction, you may have special rights as a journalist. Scraping freely available Government data should be fine, but you may wish to double check before you publish. Commercial organizations — and certain NGOs — react with less tolerance and may try to claim that you’re “sabotaging” their systems. Other information may infringe the privacy of individuals and thereby violate data privacy laws or professional ethics.
+Another set of limitations are legal barriers: some countries recognize database rights, which may limit your right to re-use information that has been published online. Sometimes, you can choose to ignore the license and do it anyway - depending on your jurisdiction, you may have special rights as a journalist. Scraping freely available Government data should be fine, but you may wish to double check before you publish. Commercial organizations - and certain NGOs - react with less tolerance and may try to claim that you’re “sabotaging” their systems. Other information may infringe the privacy of individuals and thereby violate data privacy laws or professional ethics.
 
 ###Tools that help you scrape
 
@@ -48,7 +48,7 @@ When displaying a web site, your browser will almost always make use of two tech
 
 ###The anatomy of a web page
 
-Any HTML page is structured as a hierarchy of boxes (which are defined by HTML “tags”). A large box will contain many smaller ones — for example a table that has many smaller divisions: rows and cells. There are many types of tags that perform different functions — some produce boxes, others tables, images or links. Tags can also have additional properties (e.g. they can be unique identifiers) and can belong to groups called ‘classes’, which makes it possible to target and capture individual elements within a document. Selecting the appropriate elements this way and extracting their content is the key to writing a scraper.
+Any HTML page is structured as a hierarchy of boxes (which are defined by HTML “tags”). A large box will contain many smaller ones - for example a table that has many smaller divisions: rows and cells. There are many types of tags that perform different functions - some produce boxes, others tables, images or links. Tags can also have additional properties (e.g. they can be unique identifiers) and can belong to groups called ‘classes’, which makes it possible to target and capture individual elements within a document. Selecting the appropriate elements this way and extracting their content is the key to writing a scraper.
 
 Viewing the elements in a web page: everything can be broken up into boxes within boxes.
 
@@ -59,7 +59,7 @@ Tags work like book ends, marking the start and the end of a unit. For example <
 ![figs/incoming/04-CC.png
 ](http://datajournalismhandbook.org/1.0/en/figs/incoming/04-CC.png "Figure 57. The International Atomic Energy Agency’s (IAEA) portal (news.iaea.org)")
 
-<center><small>Figure 57. The International Atomic Energy Agency’s (IAEA) portal (news.iaea.org)</small></center>
+<small>Figure 57. The International Atomic Energy Agency’s (IAEA) portal (news.iaea.org)</small>
 
 ###An example: scraping nuclear incidents with Python
 
@@ -81,14 +81,14 @@ Try to be as precise as you can and don’t assume that the program knows anythi
 
 Once you’ve written down some pseudo-code, let’s compare this to the essential code for our first scraper:
 
-```
+```python
 import scraperwiki
 from lxml import html
 ```
 
-In this first section, we’re importing existing functionality from libraries — snippets of pre-written code. scraperwiki will give us the ability to download web sites, while lxml is a tool for the structured analysis of HTML documents. Good news: if you are writing a Python scraper with ScraperWiki, these two lines will always be the same.
+In this first section, we’re importing existing functionality from libraries - snippets of pre-written code. scraperwiki will give us the ability to download web sites, while lxml is a tool for the structured analysis of HTML documents. Good news: if you are writing a Python scraper with ScraperWiki, these two lines will always be the same.
 
-```
+```python
 url = "http://www-news.iaea.org/EventList.aspx"
 doc_text = scraperwiki.scrape(url)
 doc = html.fromstring(doc_text)
@@ -96,9 +96,9 @@ doc = html.fromstring(doc_text)
 
 Next, the code makes a name (variable): url, and assigns the URL of the IAEA page as its value. This tells the scraper that this thing exists and we want to pay attention to it. Note that the URL itself is in quotes as it is not part of the program code but a string, a sequence of characters.
 
-We then use the url variable as input to a function, scraperwiki.scrape. A function will provide some defined job — in this case it’ll download a web page. When it’s finished, it’ll assign its output to another variable, doc_text. doc_text will now hold the actual text of the website — not the visual form you see in your browser, but the source code, including all the tags. Since this form is not very easy to parse, we’ll use another function, html.fromstring, to generate a special representation where we can easily address elements, the so-called document object model (DOM).
+We then use the url variable as input to a function, scraperwiki.scrape. A function will provide some defined job - in this case it’ll download a web page. When it’s finished, it’ll assign its output to another variable, doc_text. doc_text will now hold the actual text of the website - not the visual form you see in your browser, but the source code, including all the tags. Since this form is not very easy to parse, we’ll use another function, html.fromstring, to generate a special representation where we can easily address elements, the so-called document object model (DOM).
 
-```
+```python
 for row in doc.cssselect("#tblEvents tr"):
     link_in_header = row.cssselect("h4 a").pop()
     event_title = link_in_header.text
@@ -115,7 +115,7 @@ Note that some elements in the DOM contain actual text, i.e. text that is not pa
 
 ![figs/incoming/04-DD.png](http://datajournalismhandbook.org/1.0/en/figs/incoming/04-DD.png "Figure 58. A scraper in action (ScraperWiki)")
 
-<center><small>Figure 58. A scraper in action (ScraperWiki)</small></center>
+<small>Figure 58. A scraper in action (ScraperWiki)</small>
 
 You can now see a basic scraper operating: it downloads the web page, transforms it into the DOM form and then allows you to pick and extract certain content. Given this skeleton, you can try and solve some of the remaining problems using the ScraperWiki and Python documentation:
 
@@ -124,6 +124,8 @@ You can now see a basic scraper operating: it downloads the web page, transforms
 * ScraperWiki offers a small database to each scraper so you can store the results; copy the relevant example from their docs and adapt it so it will save the event titles, links and dates.
 * The event list has many pages; can you scrape multiple pages to get historic events as well?
 
-As you’re trying to solve these challenges, have a look around ScraperWiki: there are many useful examples in the existing scrapers — and quite often, the data is pretty exciting, too. This way, you don’t need to start off your scraper from scratch: just choose one that is similar, fork it and adapt to your problem.
+As you’re trying to solve these challenges, have a look around ScraperWiki: there are many useful examples in the existing scrapers - and quite often, the data is pretty exciting, too. This way, you don’t need to start off your scraper from scratch: just choose one that is similar, fork it and adapt to your problem.
 
 — *Friedrich Lindenberg, Open Knowledge Foundation*
+
+.
